@@ -1,0 +1,20 @@
+{
+  "vantage": "laptop, residential, New Delhi, India, 202.59.209.34",
+  "collected": "2026-09-10",
+  "origins": 10000,
+  "clean": 7267,
+  "clean_pct": 72.7,
+  "blocked_A": 1156,
+  "blocked_B": 1445,
+  "mcnemar_b": 298,
+  "mcnemar_c": 9,
+  "block_rate_A_pct": 15.91,
+  "block_rate_B_pct": 19.88,
+  "cloudflare_origins": 2616,
+  "cloudflare_blocked_B": 919,
+  "cloudflare_block_rate_pct": 35.13,
+  "confound_arm_A_blocked_pct": 0.0,
+  "confound_arm_B_blocked_pct": 96.8,
+  "confound_arm_C_blocked_pct": 5.3,
+  "confound_arm_D_blocked_pct": 93.6
+}

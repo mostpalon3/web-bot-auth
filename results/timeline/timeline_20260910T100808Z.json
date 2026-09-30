@@ -1,0 +1,51 @@
+[
+  {
+    "host": "ahrefs.com",
+    "url": "ahrefs.com/.well-known/http-message-signatures-directory",
+    "snapshots": [],
+    "error": ""
+  },
+  {
+    "host": "chatgpt.com",
+    "url": "chatgpt.com/.well-known/http-message-signatures-directory",
+    "snapshots": [
+      {
+        "timestamp": "20251007050256",
+        "status": "200",
+        "digest": "4QYE6LYHYBIYOPQP4C7Q552OFREVSOXB",
+        "length": "1047"
+      },
+      {
+        "timestamp": "20251123060240",
+        "status": "200",
+        "digest": "GG4IAAKDIJTOOPV35XM22UWI7KNUHM2G",
+        "length": "1404"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "host": "checkpoint.com",
+    "url": "checkpoint.com/.well-known/http-message-signatures-directory",
+    "snapshots": [],
+    "error": ""
+  },
+  {
+    "host": "forter.com",
+    "url": "forter.com/.well-known/http-message-signatures-directory",
+    "snapshots": [],
+    "error": "ReadTimeout"
+  },
+  {
+    "host": "fpjs.io",
+    "url": "fpjs.io/.well-known/http-message-signatures-directory",
+    "snapshots": [],
+    "error": ""
+  },
+  {
+    "host": "meta.com",
+    "url": "meta.com/.well-known/http-message-signatures-directory",
+    "snapshots": [],
+    "error": ""
+  }
+]

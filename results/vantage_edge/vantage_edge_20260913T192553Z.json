@@ -1,0 +1,889 @@
+{
+  "collected_utc": "20260913T192553Z",
+  "worker": "https://wba-probe.aniksaha4049.workers.dev",
+  "agent": "https://wba-probe.aniksaha4049.workers.dev",
+  "user_agent": "wba-vantage/0.1 (+https://joya-biswas.github.io/signed-lane/; academic measurement from a second network vantage; two requests per origin; contact: joyabiswas0103@gmail.com)",
+  "colos": {
+    "DAC": 2
+  },
+  "rows": [
+    {
+      "host": "google.com",
+      "A": {
+        "outcome": "rate_limited",
+        "status": 429,
+        "bytes": 3127,
+        "latency_ms": 988,
+        "server": "cloudflare",
+        "cf_ray": "a3a9883b7e5a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "rate_limited",
+        "status": 429,
+        "bytes": 3127,
+        "latency_ms": 817,
+        "server": "cloudflare",
+        "cf_ray": "a3a988430b7d2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "cloudflare.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1316767,
+        "latency_ms": 256,
+        "server": "cloudflare",
+        "cf_ray": "a3a98846bdaf2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1316767,
+        "latency_ms": 256,
+        "server": "cloudflare",
+        "cf_ray": "a3a9884ac8562508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "facebook.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 449016,
+        "latency_ms": 1316,
+        "server": "cloudflare",
+        "cf_ray": "a3a988519c7d2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 449018,
+        "latency_ms": 1180,
+        "server": "cloudflare",
+        "cf_ray": "a3a9885b1a972508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "gstatic.com",
+      "A": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 1557,
+        "latency_ms": 719,
+        "server": "cloudflare",
+        "cf_ray": "a3a988663a6e2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 1557,
+        "latency_ms": 214,
+        "server": "cloudflare",
+        "cf_ray": "a3a9886b2daf2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "googleapis.com",
+      "A": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 1557,
+        "latency_ms": 263,
+        "server": "cloudflare",
+        "cf_ray": "a3a9886e4f5e2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 1557,
+        "latency_ms": 212,
+        "server": "cloudflare",
+        "cf_ray": "a3a9887279b22508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "microsoft.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 198477,
+        "latency_ms": 1223,
+        "server": "cloudflare",
+        "cf_ray": "a3a988783d492508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 198477,
+        "latency_ms": 136,
+        "server": "cloudflare",
+        "cf_ray": "a3a98880ea902508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "amazonaws.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 522431,
+        "latency_ms": 1960,
+        "server": "cloudflare",
+        "cf_ray": "a3a98889d8482508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 522431,
+        "latency_ms": 1193,
+        "server": "cloudflare",
+        "cf_ray": "a3a98897f8902508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "akamai.net",
+      "A": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 287,
+        "server": "cloudflare",
+        "cf_ray": "a3a9889e34702508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a988a0c4712508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "youtube.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 878901,
+        "latency_ms": 726,
+        "server": "cloudflare",
+        "cf_ray": "a3a988a5d8152508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 881554,
+        "latency_ms": 594,
+        "server": "cloudflare",
+        "cf_ray": "a3a988abfbdb2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "apple.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 312447,
+        "latency_ms": 642,
+        "server": "cloudflare",
+        "cf_ray": "a3a988b2e8502508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 312447,
+        "latency_ms": 207,
+        "server": "cloudflare",
+        "cf_ray": "a3a988b80b102508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "instagram.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 409054,
+        "latency_ms": 1369,
+        "server": "cloudflare",
+        "cf_ray": "a3a988bd6e072508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 409205,
+        "latency_ms": 817,
+        "server": "cloudflare",
+        "cf_ray": "a3a988c76c4f2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "mail.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 936,
+        "latency_ms": 5730,
+        "server": "cloudflare",
+        "cf_ray": "a3a988e6df802508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 936,
+        "latency_ms": 2268,
+        "server": "cloudflare",
+        "cf_ray": "a3a988fd8d512508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "fbcdn.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 449016,
+        "latency_ms": 1345,
+        "server": "cloudflare",
+        "cf_ray": "a3a989079b0c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "ezviz7.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "twitter.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "dzen.ru",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "linkedin.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "googlevideo.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "domaincontrol.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "office.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "googletagmanager.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "live.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "akamaiedge.net",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "hicloudcam.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "amazon.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "akadns.net",
+      "A": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 132,
+        "server": "cloudflare",
+        "cf_ray": "a3a9894ee4912508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9895174922508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "gtld-servers.net",
+      "A": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 992,
+        "server": "cloudflare",
+        "cf_ray": "a3a9895744932508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9895ca4942508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "azure.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 466060,
+        "latency_ms": 2609,
+        "server": "cloudflare",
+        "cf_ray": "a3a9896cffca2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 466060,
+        "latency_ms": 1129,
+        "server": "cloudflare",
+        "cf_ray": "a3a98976bec62508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "github.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 577035,
+        "latency_ms": 485,
+        "server": "cloudflare",
+        "cf_ray": "a3a9897b89ae2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 577035,
+        "latency_ms": 53,
+        "server": "cloudflare",
+        "cf_ray": "a3a989811ce82508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "bing.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 67663,
+        "latency_ms": 557,
+        "server": "cloudflare",
+        "cf_ray": "a3a98985eff22508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 67890,
+        "latency_ms": 518,
+        "server": "cloudflare",
+        "cf_ray": "a3a9898abb8e2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "wikipedia.org",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 117463,
+        "latency_ms": 1873,
+        "server": "cloudflare",
+        "cf_ray": "a3a9899449882508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 117463,
+        "latency_ms": 103,
+        "server": "cloudflare",
+        "cf_ray": "a3a9899e2fd42508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "whatsapp.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 276029,
+        "latency_ms": 2719,
+        "server": "cloudflare",
+        "cf_ray": "a3a989a33b672508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 276058,
+        "latency_ms": 478,
+        "server": "cloudflare",
+        "cf_ray": "a3a989b48de12508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "apple-dns.net",
+      "A": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 465,
+        "server": "cloudflare",
+        "cf_ray": "a3a989bcd4962508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a989bf54972508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "appsflyersdk.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 146,
+        "latency_ms": 414,
+        "server": "cloudflare",
+        "cf_ray": "a3a989c1edb62508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 146,
+        "latency_ms": 11,
+        "server": "cloudflare",
+        "cf_ray": "a3a989c6f84c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "googleusercontent.com",
+      "A": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 1557,
+        "latency_ms": 395,
+        "server": "cloudflare",
+        "cf_ray": "a3a989c989bb2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 1557,
+        "latency_ms": 114,
+        "server": "cloudflare",
+        "cf_ray": "a3a989ce8cec2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "fastly.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 664793,
+        "latency_ms": 607,
+        "server": "cloudflare",
+        "cf_ray": "a3a989d22f352508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 222622,
+        "latency_ms": 77,
+        "server": "cloudflare",
+        "cf_ray": "a3a989d85b212508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "doubleclick.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 125234,
+        "latency_ms": 1156,
+        "server": "cloudflare",
+        "cf_ray": "a3a989de2e942508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 125234,
+        "latency_ms": 127,
+        "server": "cloudflare",
+        "cf_ray": "a3a989e4ea7c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "aaplimg.com",
+      "A": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 330,
+        "server": "cloudflare",
+        "cf_ray": "a3a989ea04982508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a989ec949a2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "microsoftonline.com",
+      "A": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 66,
+        "server": "cloudflare",
+        "cf_ray": "a3a989ef749b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a989f2049c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "office.net",
+      "A": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 65,
+        "server": "cloudflare",
+        "cf_ray": "a3a989f4e49d2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_530",
+        "status": 530,
+        "bytes": 16,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a989f7749e2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "netflix.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 3176958,
+        "latency_ms": 5348,
+        "server": "cloudflare",
+        "cf_ray": "a3a98a0b983b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 3176970,
+        "latency_ms": 4047,
+        "server": "cloudflare",
+        "cf_ray": "a3a98a2558ed2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "trafficmanager.net",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "sharepoint.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "gandi.net",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "youtu.be",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "cloud.microsoft",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "digicert.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "wordpress.org",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "skype.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "x.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,2212 @@
+{
+  "collected_utc": "20260913T183001Z",
+  "rows": [
+    {
+      "name": "AGI Agent",
+      "operator": "AGI, Inc",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://api.agi.tech/.well-known/http-message-signatures-directory",
+      "host": "api.agi.tech",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "CFtgCkbTK8KSwYj5E96RGZJcmLuIjOj5rcCPupChTQA"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "AI Search External",
+      "operator": "Cloudflare",
+      "category": "AI_SEARCH",
+      "follows_robots_recorded": false,
+      "url": "https://search.ai.cloudflare.com/external/.well-known/http-message-signatures-directory",
+      "host": "search.ai.cloudflare.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Zsl8tctvhPYBnHbacdHDUhHoLzCMdApq94Y63WdoMzU"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (AP Northeast)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://kzejmtkesloc1.keydirectory.signer.ap-northeast-1.on.aws/.well-known/http-message-signatures-directory",
+      "host": "kzejmtkesloc1.keydirectory.signer.ap-northeast-1.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "7GV8UW5uqgVQUyyGHcCMFId758np49HmQR836przbBA"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (AP South)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://wdfzm130yrb91.keydirectory.signer.ap-south-1.on.aws/.well-known/http-message-signatures-directory",
+      "host": "wdfzm130yrb91.keydirectory.signer.ap-south-1.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "amc8Bz-xH6jDxkFFUglEfufGDDm7rCk0hlIebmwMYQE"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (AP Southeast 1)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://slf696jfe4gp0.keydirectory.signer.ap-southeast-1.on.aws/.well-known/http-message-signatures-directory",
+      "host": "slf696jfe4gp0.keydirectory.signer.ap-southeast-1.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "yJvuT_BV7Bh-5-7q52JojnYGJJhPnPovwSxo52tpZX8"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (AP Southeast)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://meh0x7tptr6o1.keydirectory.signer.ap-southeast-2.on.aws/.well-known/http-message-signatures-directory",
+      "host": "meh0x7tptr6o1.keydirectory.signer.ap-southeast-2.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Y0Y9KQtdCz1gcIsVphQKp2NTzb3O5K3UEdsra04nefk"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (EU Central 1)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://o42g509c7dlj6.keydirectory.signer.eu-central-1.on.aws/.well-known/http-message-signatures-directory",
+      "host": "o42g509c7dlj6.keydirectory.signer.eu-central-1.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "TsrJ6TOUfApTa8i55-urn-PEPQ595_PbNT-PdYH2jiQ"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (EU West 1)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://c3drvlj8gw240.keydirectory.signer.eu-west-1.on.aws/.well-known/http-message-signatures-directory",
+      "host": "c3drvlj8gw240.keydirectory.signer.eu-west-1.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "-l7uDo1b55AmqPB7lac2BLHl-MnhQOy2ccCuDhaiaEE"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (US East 1)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://xhah6q48pbxb4.keydirectory.signer.us-east-1.on.aws/.well-known/http-message-signatures-directory",
+      "host": "xhah6q48pbxb4.keydirectory.signer.us-east-1.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "70pdwksCIzTDt7zCZoqGouPcD476nwNoWQNNTmN5bl8"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (US East 2)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://ogtj5xdh5udp4.keydirectory.signer.us-east-2.on.aws/.well-known/http-message-signatures-directory",
+      "host": "ogtj5xdh5udp4.keydirectory.signer.us-east-2.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "83VamJGFEN-sjc3IKBA7_biG5zyJ1E6gA63ujKlCex4"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Amazon Bedrock AgentCore Browser (US West 2)",
+      "operator": "Amazon",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://bxtrz00tv0lm1.keydirectory.signer.us-west-2.on.aws/.well-known/http-message-signatures-directory",
+      "host": "bxtrz00tv0lm1.keydirectory.signer.us-west-2.on.aws",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "tmNl1zQSgQd9rE8cncbX_Ug2nvq6V38ThzavfvT_DPM"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Anchor Browser",
+      "operator": "Anchor",
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://api.anchorbrowser.io/.well-known/http-message-signatures-directory",
+      "host": "api.anchorbrowser.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "xA8MxwyS5igwFnAlQQ7Rnu2D4hDE0QqjQIKAQ51JQpU"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Apify Website Content Crawler",
+      "operator": "Apify",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://api.apify.com/.well-known/http-message-signatures-directory",
+      "host": "api.apify.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 212,
+      "key_count": 1,
+      "top_level": [
+        "purpose"
+      ],
+      "descriptive": [
+        "purpose"
+      ],
+      "behavioural": [],
+      "purpose": "rag",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "S5tJGJhYnre3a4qJE7nUArtrp0HpMJERoDKLpT_qUNg"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Arachnid Shield API",
+      "operator": "Canadian Centre for Child Protection",
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://projectarachnid.com/.well-known/http-message-signatures-directory",
+      "host": "projectarachnid.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 96,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "S5Y-u0RlDKk5H5eozgWIT-NH2eHOaz1ARsBhBIunf_g"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Artsdata Crawler",
+      "operator": "Culture Creates",
+      "category": "AGGREGATOR",
+      "follows_robots_recorded": true,
+      "url": "https://kg.artsdata.ca/.well-known/http-message-signatures-directory",
+      "host": "kg.artsdata.ca",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "nqBDjj0MadzG_URItCeeMStABPlylL7R_pq1aLGQCUo"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "AudD",
+      "operator": "AudD, LLC",
+      "category": "OTHER",
+      "follows_robots_recorded": false,
+      "url": "https://audd.io/.well-known/http-message-signatures-directory",
+      "host": "audd.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 91,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "xV7oOW9P-yP0a-qiq5VSrmnPC4jN4catWrB7eHBLox4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Browserbase",
+      "operator": "Browserbase",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://www.browserbase.com/.well-known/http-message-signatures-directory",
+      "host": "www.browserbase.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 314,
+      "key_count": 2,
+      "top_level": [
+        "purpose"
+      ],
+      "descriptive": [
+        "purpose"
+      ],
+      "behavioural": [],
+      "purpose": "rag",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "-h1SgPuRBERSIq1RlHz2bLVQ6_XhAzZajiUFy8y-Ibo",
+        "n18BfactvZjxav56R0Fnh0ntKZc2qusHRru31W-BnKA"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Brynson Compliance Bot",
+      "operator": "Brynson",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://brynsights.brynson.com/.well-known/http-message-signatures-directory",
+      "host": "brynsights.brynson.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 154,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "lkZ9PQEO5hyTKZ2dAgKAdm-VROhJ7C8A1Fr1b0fW2nA"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "BuiltWith",
+      "operator": "BuiltWith",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://builtwith.com/.well-known/http-message-signatures-directory",
+      "host": "builtwith.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json; charset=utf-8",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "RJ-XBf5L58URkDwPTqvFM5HGZmLocn6K4KtylqoScuw"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "CartAI Agentic Commerce as a Service",
+      "operator": "CartAI",
+      "category": "OTHER",
+      "follows_robots_recorded": false,
+      "url": "https://cartai.us/.well-known/http-message-signatures-directory",
+      "host": "cartai.us",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 333,
+      "key_count": 1,
+      "top_level": [
+        "purpose",
+        "signature_agent"
+      ],
+      "descriptive": [
+        "purpose",
+        "signature_agent"
+      ],
+      "behavioural": [],
+      "purpose": "Agentic Commerce Order Placement",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "JLLdCcE15G0jrMRXEl9gPHkC0MMRlF9WXPY8bcubmu4"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Channel3Bot",
+      "operator": "Channel3",
+      "category": "SEARCH_ENGINE_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://bot.trychannel3.com/.well-known/http-message-signatures-directory",
+      "host": "bot.trychannel3.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 231,
+      "key_count": 1,
+      "top_level": [
+        "purpose",
+        "signature_agent"
+      ],
+      "descriptive": [
+        "purpose",
+        "signature_agent"
+      ],
+      "behavioural": [],
+      "purpose": "agentic_commerce",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "N5WFufhphg6NMi9fmvhQXjD4lf8HyxplJWArtOxsgLA"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "ChatGPT agent",
+      "operator": "OpenAI",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://chatgpt.com/.well-known/http-message-signatures-directory",
+      "host": "chatgpt.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 243,
+      "key_count": 1,
+      "top_level": [
+        "purpose",
+        "signature_agent"
+      ],
+      "descriptive": [
+        "purpose",
+        "signature_agent"
+      ],
+      "behavioural": [],
+      "purpose": "ai",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "otMqcjr17mGyruktGvJU8oojQTSMHlVm7uO-lrcqbdg"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Cledara SaaS Management Agent",
+      "operator": "Cledara",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://gerard.cledara.ai/.well-known/http-message-signatures-directory/",
+      "host": "gerard.cledara.ai",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "S1j_RrGXHaZLOKR1HoJfUbT6VYyrlin6tKVWd99R5z4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cloudflare Agent Readiness",
+      "operator": null,
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://web-bot-auth.chambers.cfdata.org/.well-known/http-message-signatures-directory",
+      "host": "web-bot-auth.chambers.cfdata.org",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "8Yf3Aa0P2pJ6KgC79Q9VGCk5IAXl5ayj4ttknHMlXOE"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "AI Search",
+      "operator": "Cloudflare",
+      "category": "AI_SEARCH",
+      "follows_robots_recorded": true,
+      "url": "https://search.ai.cloudflare.com/.well-known/http-message-signatures-directory",
+      "host": "search.ai.cloudflare.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "pJpgX62TMLisTKcWD7sNN6BWehdmjWKwr144YZAnZ08"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cloudflare Browser Run",
+      "operator": "Cloudflare",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://web-bot-auth.cloudflare-browser-rendering-085.workers.dev/.well-known/http-message-signatures-directory",
+      "host": "web-bot-auth.cloudflare-browser-rendering-085.workers.dev",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 250,
+      "key_count": 3,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "QHrZVI7uYXBXsRaTTUojpmFG0UNelgU8-n5tmuRh08U",
+        "3JVD-GUlusv36Msck-1m0nvGAwt3xBNNVIVqYe15CYU",
+        "WdHpbKqU_Xqe-C5zUhXY9yUAuggIzqebBWFV04NEcpc"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cloudflare Crawler",
+      "operator": "Cloudflare",
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://web-bot-auth-crawl.cloudflare-browser-rendering-085.workers.dev/.well-known/http-message-signatures-directory",
+      "host": "web-bot-auth-crawl.cloudflare-browser-rendering-085.workers.dev",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 250,
+      "key_count": 3,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "lFw0i-eAcdNBehkZXLCDuiMeqyZ7v34yTBBIkH0Lcak",
+        "zUMIbIQDlgwoDj8J9qKxsjSg4nLMzf2VPJ1sVY44Pjw",
+        "81Ku7CtB5v1xpRtVe7llUpDgM_iEdItlyU53z4U54HU"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cloudflare CustomerSLO Prober (Staging)",
+      "operator": "Cloudflare",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://bot-auth-worker-staging.product-sre.workers.dev/.well-known/http-message-signatures-directory",
+      "host": "bot-auth-worker-staging.product-sre.workers.dev",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "XDj4xR4EBJ9RrM9TtXSD1uNVPsbuf8Guk4cPpsmHuOo"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cloudflare CustomerSLO Prober",
+      "operator": "Cloudflare",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://bot-auth-worker.product-sre.workers.dev/.well-known/http-message-signatures-directory",
+      "host": "bot-auth-worker.product-sre.workers.dev",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "2xx8ljYkjOyRzUmxTx9F9mpIVbB6QXNCPZYMMv9h3y4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cloudflare Radar URL Scanner",
+      "operator": "Cloudflare",
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://web-bot-auth-directory.radar-cfdata-org.workers.dev/.well-known/http-message-signatures-directory",
+      "host": "web-bot-auth-directory.radar-cfdata-org.workers.dev",
+      "status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "conformant_media_type": false,
+      "bytes": 19984,
+      "error": "not_json"
+    },
+    {
+      "name": "Cloudflare Robots API",
+      "operator": "Cloudflare",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": true,
+      "url": "https://9ae614b6-fb5a-4549-8d3e-448628101e49.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory",
+      "host": "9ae614b6-fb5a-4549-8d3e-448628101e49.wba-bots.ai-audit.cfdata.org",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "advbYyJPHCWsOt3j4S9wq5YVscw2KaqQapjJGJcu3pY"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cloudflare Web Scanner",
+      "operator": "Cloudflare",
+      "category": "SEARCH_ENGINE_CRAWLER",
+      "follows_robots_recorded": true,
+      "url": "https://d7c111cd-310f-45a1-bf94-1d7619c74a04.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory",
+      "host": "d7c111cd-310f-45a1-bf94-1d7619c74a04.wba-bots.ai-audit.cfdata.org",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "6FX2t9BaDwQmAV6Yi3sTJ-DyDkmVWLPnuhtT69AG8W0"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "ConsentCheck Bot",
+      "operator": "ConsentCheck",
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://consentcheck.site/.well-known/http-message-signatures-directory",
+      "host": "consentcheck.site",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 169,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "g3OPl1RjI2iaP58UPlDm91w3hAh8y9lHidesGxFuqMw"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Cybaa Bot",
+      "operator": null,
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://cybaa.io/.well-known/http-message-signatures-directory",
+      "host": "cybaa.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 231,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Nk3dlwIepZGCY8teO7tVqSrd686jSDcquLIC08Lyl6c"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Daric2",
+      "operator": "Cloudflare",
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://9ed846ee-31d6-4dc7-be9c-c57d769a68c8.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory",
+      "host": "9ed846ee-31d6-4dc7-be9c-c57d769a68c8.wba-bots.ai-audit.cfdata.org",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "hXHNCbkaiPjCX1v8BHg3WPflqfuYv9k1iDyzsw55Xck"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Daric3",
+      "operator": "Cloudflare",
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://fce34b5f-e942-453c-8203-efa46f63136e.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory",
+      "host": "fce34b5f-e942-453c-8203-efa46f63136e.wba-bots.ai-audit.cfdata.org",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "3-fK-8m5nysbc9ouiriwHrGw4lPYE-hVAvAuAUIToT0"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Daric4",
+      "operator": "Cloudflare",
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://9183a4a8-5a53-4cb3-8d59-16ae94b9f950.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory",
+      "host": "9183a4a8-5a53-4cb3-8d59-16ae94b9f950.wba-bots.ai-audit.cfdata.org",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 722,
+      "key_count": 4,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "LfC8vGUKgwhB38MngPVa1e6_kiDMi9EHVdaB8UsPx50",
+        "AvP03CkiG2Js4wVQISdNqFgz4iYMcdTwBA8CaDOalMs",
+        "NtnM9snP9whB2DBsByRs8P5YnO8yAEt9GaKoXAI1gtM",
+        "yZ1WimZ5j9PiQxaWFK5geEbYhR6sPydaCMZtlqNv3lU"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "DNSnifferBot",
+      "operator": "DNSniffer",
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://dnsniffer.com/.well-known/http-message-signatures-directory",
+      "host": "dnsniffer.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 91,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "cBdHK-pzbAQOLD4N3ZvVon6uLnxhODoFtbwKjUSy5rg"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "DrugCardBot",
+      "operator": "DrugCard",
+      "category": "AGGREGATOR",
+      "follows_robots_recorded": false,
+      "url": "https://app.drug-card.io/.well-known/http-message-signatures-directory",
+      "host": "app.drug-card.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "sXWqDBE5050Ze6-rg5JwxMccG9amOoSkMGwVQ1_D7jk"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "DuckAssistbot",
+      "operator": "DuckDuckGo",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://assistbot.duckduckgo.com/.well-known/http-message-signatures-directory",
+      "host": "assistbot.duckduckgo.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Ov3HDsa8JQ39dPEYFvFFN-cUpnz9yNI8LDvr-5LeiBM"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "EasyScan",
+      "operator": "codire GmbH",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://admin.itrk-easysafe.de/.well-known/http-message-signatures-directory",
+      "host": "admin.itrk-easysafe.de",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json; charset=utf-8",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "blMPEeG2iPeMk_56OkO6bLj5HXvraX-4A6FKXaEvJdE"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "FirmlyAI Bot",
+      "operator": "Firmly",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://api.firmly.online/.well-known/http-message-signatures-directory",
+      "host": "api.firmly.online",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 154,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "z5QNfiqQln9vi6bknBcrseX_7gJHfIBX4Mx_0C6ALQE"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Flowpane",
+      "operator": "Flowpane Ltd",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://crawler.flowpane.com/.well-known/http-message-signatures-directory",
+      "host": "crawler.flowpane.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json; charset=utf-8",
+      "conformant_media_type": true,
+      "bytes": 194,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "QZdoanWPKy-cHIy6B080FKtxV0Zky1tSDQ6WIslvi7E"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "FlyingPress",
+      "operator": "FlyingWeb LLC",
+      "category": "SEARCH_ENGINE_OPTIMIZATION",
+      "follows_robots_recorded": false,
+      "url": "https://page-optimizer.flyingpress.com/.well-known/http-message-signatures-directory",
+      "host": "page-optimizer.flyingpress.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "LKQFpaanYp_W8NrLa7HJwWO4Zz-FFNC5zNWt5OaYKBA"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "GhostExplore",
+      "operator": "Ghost",
+      "category": "AGGREGATOR",
+      "follows_robots_recorded": false,
+      "url": "https://explore.ghost.org/.well-known/http-message-signatures-directory",
+      "host": "explore.ghost.org",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "qvSgU2nYkKAhIQeMMWHDyfJllybLTUK4Ho6O4HTZw_A"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Grok Bot",
+      "operator": "xAI",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://cursorusercontent.com/.well-known/http-message-signatures-directory",
+      "host": "cursorusercontent.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json; charset=utf-8",
+      "conformant_media_type": true,
+      "bytes": 176,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Vuxu4khgzIe0b30Nd6hq2envAuVBFMTDqorSNIUb_Oo"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "HarkBot",
+      "operator": "Hark",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://app.hark.com/.well-known/http-message-signatures-directory",
+      "host": "app.hark.com",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "conformant_media_type": false,
+      "bytes": 4543,
+      "error": "not_json"
+    },
+    {
+      "name": "Henry Shopping Agent",
+      "operator": "Henry Labs",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://www.henrylabs.ai/.well-known/http-message-signatures-directory",
+      "host": "www.henrylabs.ai",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 248,
+      "key_count": 1,
+      "top_level": [
+        "purpose",
+        "signature_agent"
+      ],
+      "descriptive": [
+        "purpose",
+        "signature_agent"
+      ],
+      "behavioural": [],
+      "purpose": "ai",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "qTHUBf7EC_LRRSojcmjpqPnZmn8-c2UmNTY8WY7xSR0"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Hunter Logos",
+      "operator": "Hunter Web Services, Inc",
+      "category": "OTHER",
+      "follows_robots_recorded": false,
+      "url": "https://logos.hunter.io/.well-known/http-message-signatures-directory",
+      "host": "logos.hunter.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "XUTOys9wNKm3RByyxfcfro3tDfFZfOzkCDoAK-Usp_k"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "KeldanNewsCrawler",
+      "operator": "Keldan ehf.",
+      "category": "SEARCH_ENGINE_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://news-crawler.keldan.is/.well-known/http-message-signatures-directory",
+      "host": "news-crawler.keldan.is",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 96,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "spy8mi_krWR2P5g0B1qRppODacJpKXk20GaRO14Y2eY"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Kernel",
+      "operator": "Kernel",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://www.kernel.sh/.well-known/http-message-signatures-directory",
+      "host": "www.kernel.sh",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "5z6F4EJybUfoygglZXiAYaS6O1GU8hA1JrA-m7lGURM"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "Kernel Search",
+      "operator": "Kernel Technologies, Inc.",
+      "category": "AI_SEARCH",
+      "follows_robots_recorded": false,
+      "url": "https://search.bot.kernel.sh/.well-known/http-message-signatures-directory",
+      "host": "search.bot.kernel.sh",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 188,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "BIHzNFi0HX0GN8Hp63CgaVIYBDAbYSW6uur7e72WhMg"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "KlaviyoAIBot",
+      "operator": "Klaviyo",
+      "category": "AI_SEARCH",
+      "follows_robots_recorded": false,
+      "url": "https://www.klaviyo.com/.well-known/http-message-signatures-directory",
+      "host": "www.klaviyo.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "UcGYqoVGUU1pQTMaGP83yHRtZB56Eu9owg91DWDRge0"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Lane Agent",
+      "operator": "Lane",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://agent.getonlane.com/.well-known/http-message-signatures-directory",
+      "host": "agent.getonlane.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "BDDK5mT1_scgTAfFkEGPg0J0oexN7FAo9Wl_nywuh7I"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Link CLI",
+      "operator": "Link",
+      "category": "OTHER",
+      "follows_robots_recorded": false,
+      "url": "https://api.link.com/.well-known/http-message-signatures-directory",
+      "host": "api.link.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "V_khXUprn_ogn4ISW47LoNMdWLnmmbQSpTNHunAy3d4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Manus Bot",
+      "operator": "Manus",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://api.manus.im/.well-known/http-message-signatures-directory",
+      "host": "api.manus.im",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Xk_eOiOd9LOoBlPDuVGzORLcYvjm7zxBkaYHFsP6J_I"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "mediaboardbot",
+      "operator": "Mediaboard",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://media.mediaboard.com/.well-known/http-message-signatures-directory",
+      "host": "media.mediaboard.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 150,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "KSMPkMPIFeCbMXJ3qJ8wHpW9RPPkgqQ7pW9Mh24G4Eg"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Meta-ExternalTest",
+      "operator": "Meta",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://www.meta.com/.well-known/http-message-signatures-directory",
+      "host": "www.meta.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 250,
+      "key_count": 3,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Iy80tzAcbbb85lkjfKieYYwxAqinLDqDUBXjVMEnI_s",
+        "PZZZiz0rLbE9RZJ1DyryOFQzzqVwf96kCcr44MMKP0M",
+        "t8VHBHRHuPs0g3WFixNY2qbjohTnOWMIcd3neRZTkbE"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Nava Labs ASP (Dev)",
+      "operator": "Nava Labs",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://dev.labs-asp.navateam.com/.well-known/http-message-signatures-directory",
+      "host": "dev.labs-asp.navateam.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "7YGvanRmbwiz8FqvVJd86wHWd_2lYI4aCUKdqCXuxEw"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Nekuda Payment Executor",
+      "operator": "Nekuda",
+      "category": "OTHER",
+      "follows_robots_recorded": false,
+      "url": "https://nekuda-agent-registry.onrender.com/.well-known/http-message-signatures-directory",
+      "host": "nekuda-agent-registry.onrender.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json; charset=utf-8",
+      "conformant_media_type": true,
+      "bytes": 210,
+      "key_count": 2,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "1irj0_mz1bxNBjsbbH82oudkUHi082Z1L9igwJPcsGQ",
+        "zEwr6MvKuHWUVg2eTnzNgjQA-EEeU4-avZj19B33rfs"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Nostra",
+      "operator": "Nostra",
+      "category": "SEARCH_ENGINE_OPTIMIZATION",
+      "follows_robots_recorded": false,
+      "url": "https://bots.nostra.ai/.well-known/http-message-signatures-directory",
+      "host": "bots.nostra.ai",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 401,
+      "key_count": 2,
+      "top_level": [
+        "purpose"
+      ],
+      "descriptive": [
+        "purpose"
+      ],
+      "behavioural": [],
+      "purpose": "multi-service",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "3vKgyEtYsNMyY8M-CDk8_HzkuZO22aLy_LlHEjtT3WI",
+        "Pav1sqEdDlQ9qYyCUqV7J5oT3Eh2aTabW5-Ii6OCHT0"
+      ],
+      "has_exp": false,
+      "has_nbf": true
+    },
+    {
+      "name": "Novellum AI Crawl",
+      "operator": "Novellum",
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://crawl.corp.novellum.ai/.well-known/http-message-signatures-directory",
+      "host": "crawl.corp.novellum.ai",
+      "status": 404,
+      "content_type": "text/html; charset=utf-8",
+      "conformant_media_type": false,
+      "bytes": 184,
+      "error": "not_json"
+    },
+    {
+      "name": "OnticaBot",
+      "operator": "Ontica Pty Ltd",
+      "category": "SOCIAL_MEDIA_MARKETING",
+      "follows_robots_recorded": false,
+      "url": "https://ontica.com.au/.well-known/http-message-signatures-directory",
+      "host": "ontica.com.au",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json; charset=utf-8",
+      "conformant_media_type": true,
+      "bytes": 192,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "vFgzvIohSrTxRtF9VyH44rSMkEVTJhMLUn4fsmbKpX4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "PanacheBot",
+      "operator": "Panache",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://withpanache.dev/.well-known/http-message-signatures-directory",
+      "host": "withpanache.dev",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 193,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "OkCxNiGYQIhlKwFyqcDOmH9WsiiBZcsEVOiz9zqE1r4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "ParticleNewsBot",
+      "operator": null,
+      "category": "AGGREGATOR",
+      "follows_robots_recorded": false,
+      "url": "https://api.minalabs.io/.well-known/http-message-signatures-directory",
+      "host": "api.minalabs.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "7CIbiq8pU8f1TRfylS9JutU1BRKiQKN2LrfV3qSjlKw"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Payhawk Invoice Fetching Agent",
+      "operator": "Payhawk",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://external-bot.payhawk.com/.well-known/http-message-signatures-directory",
+      "host": "external-bot.payhawk.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "kB3PTzPKNP0DIEkjhP0hGYT7YrwHHzCC9e5fEu07G70"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "payroll-bot",
+      "operator": "ADP",
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://payroll-bot.adp.com/.well-known/http-message-signatures-directory",
+      "host": "payroll-bot.adp.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "4jPx6cqpG3eTvPB570IHzChHthSfYzHIo75XANkyLrU"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Platebreaker",
+      "operator": "Platebreaker",
+      "category": "SEARCH_ENGINE_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://www.platebreaker.com/.well-known/http-message-signatures-directory",
+      "host": "www.platebreaker.com",
+      "status": 200,
+      "content_type": "binary/octet-stream",
+      "conformant_media_type": false,
+      "bytes": 211,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "aOg99pxQep17RiX1ODkLI6neEffZUOylN5u2xRPgTrA"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Playpatrol",
+      "operator": "CreateIT",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://cf.playpatrol.app/.well-known/http-message-signatures-directory",
+      "host": "cf.playpatrol.app",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 96,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "hZ_gtb1K_e4ovrpwDcZqbBqGAE1YfLtjikrUd3uuxZs"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Pricey",
+      "operator": "Wilico",
+      "category": "AGGREGATOR",
+      "follows_robots_recorded": false,
+      "url": "https://web-bot-auth-keys.wilico-ppc-bot.workers.dev/.well-known/http-message-signatures-directory",
+      "host": "web-bot-auth-keys.wilico-ppc-bot.workers.dev",
+      "status": 200,
+      "content_type": "application/json",
+      "conformant_media_type": false,
+      "bytes": 209,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "5a88NoqwyTNQ9FxjAjmR-0OyCWNDxsXtSXz8M8bba2c"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "PureConsentBot",
+      "operator": "PureConsent",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://pureconsent.com/.well-known/http-message-signatures-directory",
+      "host": "pureconsent.com",
+      "status": 200,
+      "content_type": "text/html",
+      "conformant_media_type": false,
+      "bytes": 32909,
+      "error": "not_json"
+    },
+    {
+      "name": "QAtechBot",
+      "operator": "QA.tech",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://app.bugduck.tech/.well-known/http-message-signatures-directory",
+      "host": "app.bugduck.tech",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "alEo7xFZ0TJBxXKeBIHc7z08yGUrCGWQM_5OtPkiaF8"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Quartr Crawler",
+      "operator": "Quartr",
+      "category": "AGGREGATOR",
+      "follows_robots_recorded": false,
+      "url": "https://crawler.prod.quartr.cloud/.well-known/http-message-signatures-directory",
+      "host": "crawler.prod.quartr.cloud",
+      "error": "ConnectTimeout"
+    },
+    {
+      "name": "Redactus Web Classifier",
+      "operator": "Redactus",
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://bot.redactus.co.uk/.well-known/http-message-signatures-directory",
+      "host": "bot.redactus.co.uk",
+      "status": 200,
+      "content_type": "application/json",
+      "conformant_media_type": false,
+      "bytes": 193,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "4Riht9HIuWzkSZExY2eAu79KoGVtSu_6CZ892gbkMQ4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "redirect.pizza destination monitor",
+      "operator": "Enflow B.V.",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://redirect.pizza/.well-known/http-message-signatures-directory",
+      "host": "redirect.pizza",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 238,
+      "key_count": 1,
+      "top_level": [
+        "purpose",
+        "signature_agent"
+      ],
+      "descriptive": [
+        "purpose",
+        "signature_agent"
+      ],
+      "behavioural": [],
+      "purpose": "monitoring",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "Vd4rmrLbHWCA258yOZbKs6n8cIssz7VYX4Se_cNqAqk"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "RyeBot",
+      "operator": "Rye",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://rye.xyz/.well-known/http-message-signatures-directory",
+      "host": "rye.xyz",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 241,
+      "key_count": 1,
+      "top_level": [
+        "purpose",
+        "signature_agent"
+      ],
+      "descriptive": [
+        "purpose",
+        "signature_agent"
+      ],
+      "behavioural": [],
+      "purpose": "Agentic Checkout",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "pruQTAkOsxc3Jgyewz0ladvjlgLp8iqe22EVSGJHEGg"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "ScientificAdvisorBot",
+      "operator": "Scientific Advisor",
+      "category": "ACADEMIC_RESEARCH",
+      "follows_robots_recorded": false,
+      "url": "https://scientific-advisor.com/.well-known/http-message-signatures-directory",
+      "host": "scientific-advisor.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "4ERoymLXfMw3D1zpSOgeR_b17-UPkPBb52F6c334mlI"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "sourcedash",
+      "operator": "Source Dashboard",
+      "category": "SEARCH_ENGINE_CRAWLER",
+      "follows_robots_recorded": true,
+      "url": "https://www.sourcedashboard.co.uk/.well-known/http-message-signatures-directory",
+      "host": "www.sourcedashboard.co.uk",
+      "error": "ConnectionError"
+    },
+    {
+      "name": "Spyglasses",
+      "operator": "Spyglasses",
+      "category": "SEARCH_ENGINE_OPTIMIZATION",
+      "follows_robots_recorded": false,
+      "url": "https://www.spyglasses.io/.well-known/http-message-signatures-directory",
+      "host": "www.spyglasses.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "33ADskUIGpEdSpRcln3JPYnwSVgvssBLqDeos5dZkSE"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Strivve Automation",
+      "operator": "Strivve",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://signatures.cardsavr.io/.well-known/http-message-signatures-directory",
+      "host": "signatures.cardsavr.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 366,
+      "key_count": 2,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "kjDYjuHvQbyZu4c4YyzRTI5I1_GAUMmKk3_e0hV-UJ0",
+        "RrKZEzWC2GNXkoxngraQsWugImRYvPqs6Vt722Kvp9w"
+      ],
+      "has_exp": true,
+      "has_nbf": true
+    },
+    {
+      "name": "TNOThesisCrawler",
+      "operator": "TNO",
+      "category": "ACADEMIC_RESEARCH",
+      "follows_robots_recorded": false,
+      "url": "https://diamonds.tno.nl/.well-known/http-message-signatures-directory",
+      "host": "diamonds.tno.nl",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "1HXQ1mDP8S1pdbmRqTrtvfBZCV7l4lsSsa15_GPOrAU"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "TrustLink-VerificationAgent",
+      "operator": "Pearl Industry Network LLC",
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://vagent.trustlink360.com/.well-known/http-message-signatures-directory",
+      "host": "vagent.trustlink360.com",
+      "status": 200,
+      "content_type": "application/json",
+      "conformant_media_type": false,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "TNCK2ShVTIZ3EScqWViv7GB2nwcl9IIbVx7yxgNijMo"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "TwinAgent",
+      "operator": "Twin",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://signature-agents.twin.so/.well-known/http-message-signatures-directory",
+      "host": "signature-agents.twin.so",
+      "error": "ConnectionError"
+    },
+    {
+      "name": "URLertBot",
+      "operator": "URLert",
+      "category": "SECURITY",
+      "follows_robots_recorded": false,
+      "url": "https://www.urlert.com/.well-known/http-message-signatures-directory",
+      "host": "www.urlert.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 132,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "RIERmgGz-5AO7WqdMyjl4TJ4WTN040PZbzmW-tnVsL8"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Visually.io Shopify Editor",
+      "operator": "Visually.io",
+      "category": "AI_ASSISTANT",
+      "follows_robots_recorded": false,
+      "url": "https://visually.io/.well-known/http-message-signatures-directory",
+      "host": "visually.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 167,
+      "key_count": 1,
+      "top_level": [
+        "purpose"
+      ],
+      "descriptive": [
+        "purpose"
+      ],
+      "behavioural": [],
+      "purpose": "signed-agent",
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "fmhbszwgFdOwiIsMh2w4qMKe_WEJ3a_v6B-MV-NXmU4"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "WindowsForum-AI",
+      "operator": "WindowsForum.com",
+      "category": "SEARCH_ENGINE_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://windowsforum.com/.well-known/http-message-signatures-directory/index.json",
+      "host": "windowsforum.com",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "conformant_media_type": false,
+      "bytes": 707300,
+      "error": "not_json"
+    },
+    {
+      "name": "YahooMailProxy (WBA)",
+      "operator": "Yahoo",
+      "category": "PAGE_PREVIEW",
+      "follows_robots_recorded": false,
+      "url": "https://ecp.yusercontent.com/.well-known/http-message-signatures-directory",
+      "host": "ecp.yusercontent.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 142,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "t3s0EQWUNsGG4cv5ulZBqKhKOhZGWlutQIjUAB-ntnY"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "YGS Group Falconer Scraper",
+      "operator": null,
+      "category": "AI_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://bot-signature.gregoryscottdev.com/.well-known/http-message-signatures-directory",
+      "host": "bot-signature.gregoryscottdev.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "wXnGqT-nn_k61M3Nf0ujho8AIfWeCd-Uaw40XGZ2quI"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "YouBot",
+      "operator": "You.com",
+      "category": "SEARCH_ENGINE_CRAWLER",
+      "follows_robots_recorded": false,
+      "url": "https://you.com/.well-known/http-message-signatures-directory",
+      "host": "you.com",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "5hbjTA0RjjhxRRquk32fSeRWfTgAdSHCZMK1afI1qvI"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    },
+    {
+      "name": "Zvelo",
+      "operator": "zvelo",
+      "category": "MONITORING_AND_ANALYTICS",
+      "follows_robots_recorded": false,
+      "url": "https://fetch-bot.zvelo.io/.well-known/http-message-signatures-directory",
+      "host": "fetch-bot.zvelo.io",
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "conformant_media_type": true,
+      "bytes": 90,
+      "key_count": 1,
+      "top_level": [],
+      "descriptive": [],
+      "behavioural": [],
+      "purpose": null,
+      "algs": [
+        "OKP/Ed25519"
+      ],
+      "thumbprints": [
+        "D_RtHM9uBVqW-JpNQG-_ioMzFZwjicewpLOubh8Y0Ck"
+      ],
+      "has_exp": false,
+      "has_nbf": false
+    }
+  ]
+}

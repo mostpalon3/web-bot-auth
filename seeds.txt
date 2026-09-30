@@ -1,0 +1,43 @@
+# Web Bot Auth directory seeds — a HYPOTHESIS SET, not a known population.
+#
+# Nothing in this file is a verified endpoint. Each line is a candidate to be
+# probed, and which ones resolve is the first result of T1. Unreachable seeds
+# are recorded in the snapshot, never dropped: if the population turns out to
+# be tiny, that is the finding, and it is only visible if the failures are kept.
+#
+# One host or URL per line. A bare host is probed at
+#   https://<host>/.well-known/http-message-signatures-directory
+# A full URL is probed as given.
+#
+# ---------------------------------------------------------------------------
+# HOW TO POPULATE THIS PROPERLY  (do this before the first real run)
+#
+# 1. Cloudflare's bot and signed-agent documentation lists the operators it
+#    recognises. Start there — it is the closest thing to a public roster.
+# 2. draft-meunier-webbotauth-registry describes registry discovery. Follow it
+#    to whatever registry instances actually exist; the draft describes the
+#    mechanism, not a deployment.
+# 3. IETF web bot auth mailing list and meeting materials name implementers.
+# 4. Operators that publish crawler documentation (AI vendors, search engines,
+#    SEO and monitoring tools) are the obvious candidates to test.
+# 5. Passive discovery, and the most reliable source: run E3's honeypot and
+#    read Signature-Agent headers off real traffic. Any host that signs a
+#    request to you tells you where its directory is. Seeds harvested this way
+#    are observed rather than guessed, and should eventually replace this list.
+#
+# Record where each seed came from. Provenance belongs in the paper.
+# ---------------------------------------------------------------------------
+
+# --- local reference origin, for validating the harvester itself -----------
+http://127.0.0.1:8422
+
+# --- candidates: unverified, listed to be tested and reported --------------
+# Uncomment and extend once you have checked them against sources 1-4 above.
+# Leaving a candidate in and finding it unreachable is a legitimate result;
+# inventing one that was never plausible is not.
+#
+# openai.com
+# anthropic.com
+# perplexity.ai
+# duckduckgo.com
+# cloudflare.com

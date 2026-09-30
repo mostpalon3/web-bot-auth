@@ -1,0 +1,1055 @@
+{
+  "collected_utc": "20260913T202132Z",
+  "rows": [
+    {
+      "host": "cloudflare.net",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "chatgpt.com",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "openai.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "mts.ru",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "medium.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "canva.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "expireddomains.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "ft.com",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "britannica.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "perplexity.ai",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "onlyfans.com",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "ebay.co.uk",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "served",
+      "B Input with tag": "served"
+    },
+    {
+      "host": "life360.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "magnit.ru",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "character.ai",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "ancestry.com",
+      "A none": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "flightradar24.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "trendyol.com",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "ecosia.org",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "epicgames.dev",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "hltv.org",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "janitorai.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "rutube.ru",
+      "A none": "served",
+      "D RFC9421 API shape": "served",
+      "C Input no tag": "served",
+      "B Input with tag": "served"
+    },
+    {
+      "host": "fetlife.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "hugedomains.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "noodlemagazine.com",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "merriam-webster.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "sotwe.com",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "aternos.org",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "mydramalist.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "arca.live",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "fdown.net",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "action.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "iporntv.net",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "ukdevilz.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "ficbook.net",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "theblowers.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "liteapks.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "luxuretv.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "toyhou.se",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "mangago.me",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "myinstants.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "missav.live",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "missav123.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "fatalmodel.com",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "hanime1.me",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "goodreturns.in",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "czbooks.net",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "chordtela.com",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "freewebnovel.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "sexalarab.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "njavtv.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "afribaba.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "indown.io",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "animanch.com",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "tamildhool.tech",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "xahani.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "javwow.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "adroll.com",
+      "C Input no tag": "served",
+      "A none": "served",
+      "D RFC9421 API shape": "served",
+      "B Input with tag": "served"
+    },
+    {
+      "host": "darknessporn.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "shaalaa.com",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "conectate.com.do",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "udemy.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "beeline.ru",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "match.com",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "earthlink.net",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "shorturl.at",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "mos.ru",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "coinbase.com",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "crunchyroll.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "inmotionhosting.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "pcmag.com",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "qz.com",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "glassdoor.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "ucl.ac.uk",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "alrosa.ru",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "riskified.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "envato.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "heylink.me",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "indiegogo.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "brandbucket.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "unrealengine.com",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "redbubble.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "intelbras.com.br",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "n-able.com",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "toasttab.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "fbi.gov",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "arlo.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "webnovel.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "dhgate.com",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "reverso.net",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "undertone.com",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "teepublic.com",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "termsfeed.com",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "vidazoo.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "studocu.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "nag.ru",
+      "C Input no tag": "served",
+      "D RFC9421 API shape": "served",
+      "B Input with tag": "served",
+      "A none": "served"
+    },
+    {
+      "host": "news24.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "visualcapitalist.com",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "bb.com.br",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "coingecko.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "umass.edu",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "findlaw.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "tvtropes.org",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "marinetraffic.com",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "thunderbird.net",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "kit.com",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "guzelhosting.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "x.ai",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "nhentai.net",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "neilpatel.com",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "aiscore.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "blocked"
+    },
+    {
+      "host": "ebay.com.au",
+      "B Input with tag": "blocked",
+      "C Input no tag": "served",
+      "D RFC9421 API shape": "served",
+      "A none": "served"
+    },
+    {
+      "host": "steaminventoryhelper.com",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "trulia.com",
+      "C Input no tag": "served",
+      "B Input with tag": "served",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "iherb.com",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "9mod.com",
+      "A none": "served",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "just-eat.co.uk",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "ebay.it",
+      "A none": "blocked",
+      "B Input with tag": "served",
+      "D RFC9421 API shape": "served",
+      "C Input no tag": "served"
+    },
+    {
+      "host": "yolasite.com",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "revolut.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "benzinga.com",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "sberbank-tele.com",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "imunify360.com",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "apkmirror.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "diigo.com",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "atptour.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "alldatasheet.com",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "withings.net",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "4pda.to",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "tracker.gg",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked"
+    },
+    {
+      "host": "avid.com",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "perchance.org",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "yaplakal.com",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "B Input with tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "thekitchn.com",
+      "A none": "blocked",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "crushon.ai",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "betano.com",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "oneindia.com",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "camsoda.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "temp-mail.org",
+      "B Input with tag": "blocked",
+      "A none": "served",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "truthsocial.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "sportsapi.ru",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "mango-office.ru",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "jeuxvideo.com",
+      "C Input no tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked"
+    },
+    {
+      "host": "blooket.com",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "tube8.fr",
+      "D RFC9421 API shape": "blocked",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "xfree.com",
+      "D RFC9421 API shape": "blocked",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "wpzoom.com",
+      "B Input with tag": "served",
+      "C Input no tag": "served",
+      "A none": "served",
+      "D RFC9421 API shape": "served"
+    },
+    {
+      "host": "loteriasdominicanas.com",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    },
+    {
+      "host": "decathlon.fr",
+      "A none": "served",
+      "B Input with tag": "blocked",
+      "D RFC9421 API shape": "blocked",
+      "C Input no tag": "blocked"
+    }
+  ]
+}

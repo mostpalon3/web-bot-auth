@@ -1,0 +1,2391 @@
+{
+  "collected_utc": "20260913T191843Z",
+  "agent": "https://wba-probe.aniksaha4049.workers.dev",
+  "user_agent": "wba-decompose/0.1 (+https://joya-biswas.github.io/signed-lane/; academic measurement; five requests per origin; contact: joyabiswas0103@gmail.com)",
+  "rows": [
+    {
+      "host": "cloudflare.net",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "chatgpt.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "openai.com",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "mts.ru",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "served"
+    },
+    {
+      "host": "medium.com",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "canva.com",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "expireddomains.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "ft.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "britannica.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "perplexity.ai",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "onlyfans.com",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "ebay.co.uk",
+      "E full valid": "blocked",
+      "D proof no agent": "served",
+      "A none": "served",
+      "C input only": "served",
+      "B agent only": "served"
+    },
+    {
+      "host": "life360.com",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "magnit.ru",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "character.ai",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "ancestry.com",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "flightradar24.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "trendyol.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "ecosia.org",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "epicgames.dev",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "hltv.org",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "janitorai.com",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "rutube.ru",
+      "D proof no agent": "served",
+      "A none": "served",
+      "C input only": "served",
+      "B agent only": "served",
+      "E full valid": "served"
+    },
+    {
+      "host": "fetlife.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "hugedomains.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "noodlemagazine.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "merriam-webster.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "sotwe.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "aternos.org",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "mydramalist.com",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "arca.live",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "fdown.net",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "action.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "iporntv.net",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "ukdevilz.com",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "ficbook.net",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "theblowers.com",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "liteapks.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "luxuretv.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "toyhou.se",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "mangago.me",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "myinstants.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "missav.live",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "missav123.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "fatalmodel.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "hanime1.me",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "goodreturns.in",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "czbooks.net",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "chordtela.com",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "freewebnovel.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "sexalarab.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "njavtv.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "afribaba.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "indown.io",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "animanch.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "tamildhool.tech",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "xahani.com",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "javwow.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "adroll.com",
+      "C input only": "served",
+      "B agent only": "served",
+      "E full valid": "served",
+      "A none": "served",
+      "D proof no agent": "served"
+    },
+    {
+      "host": "darknessporn.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "shaalaa.com",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "conectate.com.do",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "udemy.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "beeline.ru",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "A none": "served"
+    },
+    {
+      "host": "match.com",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "earthlink.net",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "shorturl.at",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "mos.ru",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "coinbase.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "crunchyroll.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "inmotionhosting.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "pcmag.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "qz.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "glassdoor.com",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "ucl.ac.uk",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "alrosa.ru",
+      "A none": "served",
+      "B agent only": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "riskified.com",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "envato.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "heylink.me",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "indiegogo.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "brandbucket.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "unrealengine.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "redbubble.com",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "intelbras.com.br",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "n-able.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "toasttab.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "fbi.gov",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "arlo.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "webnovel.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "dhgate.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "reverso.net",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "undertone.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "teepublic.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "termsfeed.com",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "vidazoo.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "studocu.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "nag.ru",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "served",
+      "B agent only": "served"
+    },
+    {
+      "host": "news24.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "visualcapitalist.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "bb.com.br",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "coingecko.com",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "umass.edu",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "findlaw.com",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "tvtropes.org",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "marinetraffic.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "thunderbird.net",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "kit.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "guzelhosting.com",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "x.ai",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "nhentai.net",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "neilpatel.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "aiscore.com",
+      "D proof no agent": "blocked",
+      "A none": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "ebay.com.au",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "served",
+      "B agent only": "served",
+      "E full valid": "served"
+    },
+    {
+      "host": "steaminventoryhelper.com",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "trulia.com",
+      "A none": "served",
+      "C input only": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "E full valid": "served"
+    },
+    {
+      "host": "iherb.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "9mod.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "just-eat.co.uk",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "ebay.it",
+      "E full valid": "blocked",
+      "D proof no agent": "served",
+      "C input only": "served",
+      "A none": "served",
+      "B agent only": "served"
+    },
+    {
+      "host": "yolasite.com",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "revolut.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "benzinga.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "sberbank-tele.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "A none": "served"
+    },
+    {
+      "host": "imunify360.com",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "apkmirror.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "diigo.com",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "atptour.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "alldatasheet.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "withings.net",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "4pda.to",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "tracker.gg",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "avid.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "perchance.org",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "yaplakal.com",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "thekitchn.com",
+      "A none": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "crushon.ai",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "betano.com",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "oneindia.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "camsoda.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "temp-mail.org",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "truthsocial.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "sportsapi.ru",
+      "B agent only": "served",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "mango-office.ru",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "jeuxvideo.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "blooket.com",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "tube8.fr",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "served",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "xfree.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "wpzoom.com",
+      "B agent only": "served",
+      "D proof no agent": "served",
+      "C input only": "served",
+      "A none": "served",
+      "E full valid": "served"
+    },
+    {
+      "host": "loteriasdominicanas.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "decathlon.fr",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "thuvienphapluat.vn",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "tenten.vn",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "icons8.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "evidon.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "sage.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "forexfactory.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "ixigo.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "whatnot.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "ancestry.com.au",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "payhip.com",
+      "E full valid": "blocked",
+      "A none": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "imhentai.xxx",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "rebrand.ly",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "d-zone.ca",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "pornoxo.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "sofifa.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "dawn.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "fragrantica.com",
+      "A none": "rate_limited",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "tube8.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "served"
+    },
+    {
+      "host": "scirp.org",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "served",
+      "B agent only": "served",
+      "E full valid": "served"
+    },
+    {
+      "host": "toptal.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "convertkit.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "tvspielfilm.de",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "ancestry.co.uk",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "scotsman.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "freeprivacypolicy.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "91mobiles.com",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "rae.es",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "1tv.ru",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "thredup.com",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "privacy.com.br",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "lansweeper.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "lavoz.com.ar",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "playmogo.com",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "allianz.de",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "leadsquared.com",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "tele2.ru",
+      "D proof no agent": "http_503",
+      "A none": "http_503",
+      "B agent only": "http_503",
+      "C input only": "http_503",
+      "E full valid": "http_503"
+    },
+    {
+      "host": "bambulab.com",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "pngtree.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "tiermaker.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "asurahosting.com",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "cbre.com",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "appleinsider.com",
+      "B agent only": "blocked",
+      "A none": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "decathlon.es",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "decathlon.de",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "westeros.org",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "uquiz.com",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "decathlon.pl",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "chronopost.fr",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "slobodnadalmacija.hr",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "hentaihaven.xxx",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "itemku.com",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "proxysite.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "babepedia.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "nexcess.net",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "modsfire.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "sbercloud.ru",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "notebookcheck.net",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "allporncomic.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "sixt.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "fortnite.gg",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "radios.com.br",
+      "A none": "served",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "tubidy.llc",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "javhdporn.net",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "yesplay.bet",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "decathlon.it",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "voz.vn",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "bestjavporn.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "manga18.club",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "javdock.com",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "delicious.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "amateri.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "movieboxpro.app",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "cameraprive.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "livecamrips.to",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "hentaicity.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "served"
+    },
+    {
+      "host": "xanimu.com",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "bongacams.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "saveclip.app",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "myhentaicomics.com",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "C input only": "blocked"
+    },
+    {
+      "host": "sextb.net",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "error"
+    },
+    {
+      "host": "zonaprop.com.ar",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "javxxx.me",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "heavy-r.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "lotterypost.com",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "rb.gy",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "69shuba.com",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "xn--mgbkt9eckr.net",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "blockchain.info",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "nationalreview.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "revistaoeste.com",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "enuygun.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "mykronos.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "stamped.io",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "datacamp.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "coupert.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "distintas.net",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "beatport.com",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "tripo3d.ai",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "romsfun.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "momvids.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "javgg.net",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "punishworld.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "snapinsta.to",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "novel543.com",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "chronicle.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "fdownloader.net",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "action1.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "sfile.co",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "gamcare.org.uk",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "nsfwph.org",
+      "A none": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "ankergames.net",
+      "A none": "served",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "techspot.com",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "rawstory.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "sokmil.com",
+      "A none": "error",
+      "E full valid": "error",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "sdna.gr",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "litgorod.ru",
+      "B agent only": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "evotor.ru",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "served",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "liveball.sx",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "wco.tv",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "javrate.com",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "snaptik.net",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "novelfull.com",
+      "E full valid": "blocked",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "turfomania.fr",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "samehadaku.how",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "myhentaigallery.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "masstamilan.dev",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "ericsson.com",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "unlockffbeta.com",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "avkuy.com",
+      "B agent only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "fictionzone.net",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "playsport.cc",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "timotxt.com",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "D proof no agent": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "getintopc.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "afun.mx",
+      "A none": "served",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked"
+    },
+    {
+      "host": "tubepussy.org",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "forogore.net",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "A none": "served",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "24-hdx.com",
+      "C input only": "served",
+      "E full valid": "served",
+      "B agent only": "served",
+      "A none": "served",
+      "D proof no agent": "served"
+    },
+    {
+      "host": "yupmanga.com",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "riyasewana.com",
+      "D proof no agent": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "2ch2.net",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "bebesong.com",
+      "B agent only": "blocked",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "pomorska.pl",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "uukanshu.cc",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked"
+    },
+    {
+      "host": "novinhabucetuda.com",
+      "C input only": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "gag.gg",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "miku-doujin.com",
+      "A none": "served",
+      "D proof no agent": "blocked",
+      "E full valid": "blocked",
+      "C input only": "blocked",
+      "B agent only": "blocked"
+    },
+    {
+      "host": "sto55.com",
+      "A none": "served",
+      "C input only": "blocked",
+      "D proof no agent": "blocked",
+      "B agent only": "blocked",
+      "E full valid": "blocked"
+    },
+    {
+      "host": "majhinaukri.in",
+      "D proof no agent": "blocked",
+      "A none": "served",
+      "E full valid": "blocked",
+      "B agent only": "blocked",
+      "C input only": "blocked"
+    }
+  ]
+}

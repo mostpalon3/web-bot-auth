@@ -1,0 +1,323 @@
+[
+  {
+    "host": "ahrefs.com",
+    "url": "https://ahrefs.com/.well-known/http-message-signatures-directory",
+    "probed_utc": "2026-09-10T10:02:01Z",
+    "serving": {
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "content_type_conformant": true,
+      "uses_defined_media_type": true,
+      "bytes": 298,
+      "cache_control": "max-age=86400",
+      "etag": false,
+      "last_modified": false,
+      "cors": null,
+      "content_encoding": "gzip",
+      "server": "cloudflare",
+      "hsts": true,
+      "http_version": "HTTP/1.1"
+    },
+    "tls": {
+      "tls_version": "TLSv1.3",
+      "cipher": "TLS_AES_256_GCM_SHA384",
+      "cert_issuer": "Google Trust Services",
+      "cert_days_remaining": 39,
+      "error": ""
+    },
+    "keys": [
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": null,
+        "use": "sig",
+        "kid_declared": "e3vpiy0B6M1Wdxnizw3dqRSgpqS6SXM2qiQ6HtUwZ5g",
+        "kid_thumbprint": "e3vpiy0B6M1Wdxnizw3dqRSgpqS6SXM2qiQ6HtUwZ5g",
+        "profile_conformant": true
+      },
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": null,
+        "use": "sig",
+        "kid_declared": "0227KWFT1389RBnlR8TLhbMaA_Of2MbNPhmlNICS7eI",
+        "kid_thumbprint": "0227KWFT1389RBnlR8TLhbMaA_Of2MbNPhmlNICS7eI",
+        "profile_conformant": true
+      }
+    ],
+    "key_count": 2,
+    "declared": {},
+    "card_fields": [],
+    "documentation": {
+      "/robots.txt": 200,
+      "/.well-known/security.txt": 404,
+      "/bot": 404,
+      "/bots": 404,
+      "/crawler": 404,
+      "/about/crawler": 404
+    }
+  },
+  {
+    "host": "chatgpt.com",
+    "url": "https://chatgpt.com/.well-known/http-message-signatures-directory",
+    "probed_utc": "2026-09-10T10:02:08Z",
+    "serving": {
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "content_type_conformant": true,
+      "uses_defined_media_type": true,
+      "bytes": 243,
+      "cache_control": null,
+      "etag": false,
+      "last_modified": false,
+      "cors": null,
+      "content_encoding": null,
+      "server": "cloudflare",
+      "hsts": true,
+      "http_version": "HTTP/1.1"
+    },
+    "tls": {
+      "tls_version": "TLSv1.3",
+      "cipher": "TLS_AES_256_GCM_SHA384",
+      "cert_issuer": "Let's Encrypt",
+      "cert_days_remaining": 81,
+      "error": ""
+    },
+    "keys": [
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": null,
+        "use": "sig",
+        "kid_declared": "otMqcjr17mGyruktGvJU8oojQTSMHlVm7uO-lrcqbdg",
+        "kid_thumbprint": "otMqcjr17mGyruktGvJU8oojQTSMHlVm7uO-lrcqbdg",
+        "profile_conformant": true
+      }
+    ],
+    "key_count": 1,
+    "declared": {},
+    "card_fields": [],
+    "documentation": {
+      "/robots.txt": 200,
+      "/.well-known/security.txt": 200,
+      "/bot": 200,
+      "/bots": 200,
+      "/crawler": 200,
+      "/about/crawler": 404
+    }
+  },
+  {
+    "host": "checkpoint.com",
+    "url": "https://checkpoint.com/.well-known/http-message-signatures-directory",
+    "probed_utc": "2026-09-10T10:02:18Z",
+    "serving": {
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "content_type_conformant": true,
+      "uses_defined_media_type": true,
+      "bytes": 310,
+      "cache_control": null,
+      "etag": true,
+      "last_modified": true,
+      "cors": null,
+      "content_encoding": null,
+      "server": "AmazonS3",
+      "hsts": false,
+      "http_version": "HTTP/1.1"
+    },
+    "tls": {
+      "tls_version": "TLSv1.3",
+      "cipher": "TLS_AES_128_GCM_SHA256",
+      "cert_issuer": "GlobalSign nv-sa",
+      "cert_days_remaining": 113,
+      "error": ""
+    },
+    "keys": [
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": "EdDSA",
+        "use": "sig",
+        "kid_declared": "XgfEjTcLRZmf41AOiuFHmgPS5BWlkohq9Pec7Xo3tRI",
+        "kid_thumbprint": "XgfEjTcLRZmf41AOiuFHmgPS5BWlkohq9Pec7Xo3tRI",
+        "profile_conformant": true
+      }
+    ],
+    "key_count": 1,
+    "declared": {},
+    "card_fields": [],
+    "documentation": {
+      "/robots.txt": 200,
+      "/.well-known/security.txt": 404,
+      "/bot": 200,
+      "/bots": 200,
+      "/crawler": 202,
+      "/about/crawler": 202
+    }
+  },
+  {
+    "host": "forter.com",
+    "url": "https://forter.com/.well-known/http-message-signatures-directory",
+    "probed_utc": "2026-09-10T10:02:39Z",
+    "serving": {
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "content_type_conformant": true,
+      "uses_defined_media_type": true,
+      "bytes": 285,
+      "cache_control": "max-age=3600, must-revalidate",
+      "etag": false,
+      "last_modified": true,
+      "cors": "*",
+      "content_encoding": null,
+      "server": "cloudflare",
+      "hsts": true,
+      "http_version": "HTTP/1.1"
+    },
+    "tls": {
+      "tls_version": "TLSv1.3",
+      "cipher": "TLS_AES_256_GCM_SHA384",
+      "cert_issuer": "Google Trust Services",
+      "cert_days_remaining": 62,
+      "error": ""
+    },
+    "keys": [
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": "EdDSA",
+        "use": "sig",
+        "kid_declared": "8uWLjbCLblTwd2KGi3fE_sAO-0_9UofZYJgzPlKm5JI",
+        "kid_thumbprint": "8uWLjbCLblTwd2KGi3fE_sAO-0_9UofZYJgzPlKm5JI",
+        "profile_conformant": true
+      }
+    ],
+    "key_count": 1,
+    "declared": {},
+    "card_fields": [],
+    "documentation": {
+      "/robots.txt": 200,
+      "/.well-known/security.txt": 404,
+      "/bot": 404,
+      "/bots": 404,
+      "/crawler": 404,
+      "/about/crawler": 404
+    }
+  },
+  {
+    "host": "fpjs.io",
+    "url": "https://fpjs.io/.well-known/http-message-signatures-directory",
+    "probed_utc": "2026-09-10T10:02:52Z",
+    "serving": {
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "content_type_conformant": true,
+      "uses_defined_media_type": true,
+      "bytes": 154,
+      "cache_control": "public, max-age=0, must-revalidate",
+      "etag": true,
+      "last_modified": true,
+      "cors": "*",
+      "content_encoding": null,
+      "server": "Vercel",
+      "hsts": true,
+      "http_version": "HTTP/1.1"
+    },
+    "tls": {
+      "tls_version": "TLSv1.3",
+      "cipher": "TLS_AES_128_GCM_SHA256",
+      "cert_issuer": "Amazon",
+      "cert_days_remaining": 64,
+      "error": ""
+    },
+    "keys": [
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": null,
+        "use": "sig",
+        "kid_declared": "KYG4GtgVVPWw3r1AXgM6fYFw5kAvRZiJVxZY1Rsgc3Q",
+        "kid_thumbprint": "KYG4GtgVVPWw3r1AXgM6fYFw5kAvRZiJVxZY1Rsgc3Q",
+        "profile_conformant": true
+      }
+    ],
+    "key_count": 1,
+    "declared": {},
+    "card_fields": [],
+    "documentation": {
+      "/robots.txt": 200,
+      "/.well-known/security.txt": 404,
+      "/bot": 404,
+      "/bots": 404,
+      "/crawler": 404,
+      "/about/crawler": 404
+    }
+  },
+  {
+    "host": "meta.com",
+    "url": "https://meta.com/.well-known/http-message-signatures-directory",
+    "probed_utc": "2026-09-10T10:03:05Z",
+    "serving": {
+      "status": 200,
+      "content_type": "application/http-message-signatures-directory+json",
+      "content_type_conformant": true,
+      "uses_defined_media_type": true,
+      "bytes": 250,
+      "cache_control": "must-revalidate, max-age=3600",
+      "etag": false,
+      "last_modified": false,
+      "cors": null,
+      "content_encoding": "zstd",
+      "server": null,
+      "hsts": true,
+      "http_version": "HTTP/1.1"
+    },
+    "tls": {
+      "tls_version": "TLSv1.3",
+      "cipher": "TLS_CHACHA20_POLY1305_SHA256",
+      "cert_issuer": "DigiCert Inc",
+      "cert_days_remaining": 7,
+      "error": ""
+    },
+    "keys": [
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": null,
+        "use": null,
+        "kid_declared": null,
+        "kid_thumbprint": "Iy80tzAcbbb85lkjfKieYYwxAqinLDqDUBXjVMEnI_s",
+        "profile_conformant": true
+      },
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": null,
+        "use": null,
+        "kid_declared": null,
+        "kid_thumbprint": "PZZZiz0rLbE9RZJ1DyryOFQzzqVwf96kCcr44MMKP0M",
+        "profile_conformant": true
+      },
+      {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "alg": null,
+        "use": null,
+        "kid_declared": null,
+        "kid_thumbprint": "t8VHBHRHuPs0g3WFixNY2qbjohTnOWMIcd3neRZTkbE",
+        "profile_conformant": true
+      }
+    ],
+    "key_count": 3,
+    "declared": {},
+    "card_fields": [],
+    "documentation": {
+      "/robots.txt": 200,
+      "/.well-known/security.txt": 200,
+      "/bot": 404,
+      "/bots": 404,
+      "/crawler": 404,
+      "/about/crawler": 404
+    }
+  }
+]

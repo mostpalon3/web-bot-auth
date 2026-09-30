@@ -1,0 +1,977 @@
+{
+  "collected_utc": "20260913T153639Z",
+  "agent": "https://wba-probe.aniksaha4049.workers.dev",
+  "user_agent": "wba-tollbooth/0.1 (+https://joya-biswas.github.io/signed-lane/; academic measurement of pay-per-crawl pricing; two requests per origin; contact: joyabiswas0103@gmail.com)",
+  "rows": [
+    {
+      "host": "allrecipes.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:11 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.allrecipes.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7823/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8386ae802a443-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:13 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.allrecipes.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7823/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838745c16a443-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "bhg.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:15 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.bhg.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7822/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838839e3da443-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:17 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.bhg.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7822/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8388d1deaa443-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "eatingwell.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:19 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.eatingwell.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/9218/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83899dba81900-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:20 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.eatingwell.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/9218/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838a358051900-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "ew.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 200,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:23 GMT",
+          "Content-Type": "text/html;charset=utf-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "CF-Ray": "a3a838b00fd133d3-DAC",
+          "CF-Cache-Status": "DYNAMIC",
+          "Cache-Control": "max-age=1800, private",
+          "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+          "Link": "<//ew.com/static/4.288.0/cache/eNqdVluWpCAM3dBwWMT8ziaiRM00Dwewunv3E9DycaTQ6o8qkpBLHkQSGSJEaqUBGzXKNgSZJPhLnjfIQI9i1NDi4LRCX1Iy6EkRWElW4deqkbeA7CZwZnQWbQwSPAsYvqyidTbyhhycwfy32XFq0hj2YA-kxYMUumwjUzX9BsISZitAhaI_Kv9O0W0an6R65HVA6of4ewDb4x8K7DX6orByVq9dA5pRoDIY9om9q3c-1sKDet5zVk6RNMVvwaI9XQF3zhvOEIJvB5GYPV3BGQwh1UgDNmXiyN5zdg4s-7qR96DdpHVoPaLN8CN774jgWgKd4blGVrZ0I2VcHZNqS-e4Ggde3arUTuMXNfxhQFV_d2yGFc28Kr_Oucg3Ni-V8ivr1a8l685XspJvQTXZj3Bg7sGViwrCICZLD_RhuaCitHIgv2ba9ctSM4yfQWNMPi6Qk6SS2HfQZ9vPJzTd-0KXbAVsU2K4NviJD1F0iGpPVyy0XEac-xA3qmQhbf5A-cLwlU7uTDn4nroLtwxG2Kir7xpRGOcxV92Rq-Y3ulG4TozJrR1dd232ii8C4uR3l1FoPFmTuE16WCyeJJV0rW4G7pYN-OdaDemG7tO7B0HnJg_cyY3JOzvJlHwUwpClqr2Ov04xOq6hlXpXX4g0PbxK_BbZTIiltR7Z2oubhw3x95NHom-OaXQ-8jgS5Unyg0M232Vl751xah6SZnPXB76sGhkH7qlzpjey_jVUEZc5WRNwDdkNp2fJjdi4IbACt4T8eB24aoR3cAWnw78J_DKOZvI_niFxnw.min.css>; rel=preload; as=style; nopush, <//ew.com/static/fonts/CaslonDoric-Regular.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//ew.com/static/fonts/CaslonDoric-RegularItalic.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//ew.com/static/fonts/CaslonDoric-Semibold.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//ew.com/static/fonts/CaslonDoric-SemiboldItalic.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//www.googletagmanager.com/gtm.js?id=GTM-P3X3VT7>; rel=preload; as=script; nopush, <//www.googletagmanager.com/gtag/js?id=G-K7Z1YZPWW1&l=dataLayer&cx=c>; rel=preload; as=script; nopush, <//securepubads.g.doubleclick.net/tag/js/gpt.js>; rel=preload; as=script; nopush, <//ew.com/static/4.288.0/cache/eNrTLy5JLMlM1s9NzCvJSdXPKtYvKE0qLk3S0ceQSM7PK07NKwEA3xES_A.min.js>; rel=preload; as=script; nopush; group=prioritized, <//ew.com/static/4.288.0/cache/eNp9lN1ugzAMhV9ojGfYdrGrStOGtmsTDLiEGMWGqn36hapbCzJc8JN8J45zbMhFQcnlPQT1mB8l1wgOn_LlvON-4IBBJfdw5lFn5VEy16Lr1uKEPEOFlQEcc0coBhmVPKnN6pDt4Yr7XT4fqaPQ7IomDBXHXNvImqY2wmAGlWwyd5oM1qeXrIwI3cCULPyXJIan3aQ8XM5CF0xOc6ipWUs8lbLUpQ0wCjolDjtVdBLr683KF86ldf4BGswmwtNO3Eb7a5k9uS778_2u52r0eM2YB4Uyrb09LQlUt1NnMNByZMk_i9f5spBh8eM2B9RIToo5XYymZrwamtWeOa6H1oIfLL8XTt3Rl2c117x_FPNlIYXYoM4tLFCjJ1FLJW7ZnQsrqUoFIj1bOGLq_hGLdb0eCpsCz8pmUDtAHVHauZIvWxm8pS9AacIvagL4A4TUTnGzoeV5DBOSb9MPQ34B9MS_wg.min.js>; rel=preload; as=script; nopush; group=top, <//ew.com/static/4.288.0/cache/eNqllF1ugzAMgC-0LOoRpr3ubScwxAR3JqkSU0pPPwPVWkobVdpTHOPP-Dc2CwjVtoMgjHafbaeCOUIgZjC5TpH5za6t6tgdYsAg2VIQTAHYOmwwTfwsJHRXKLqeMd9Skk4GmoaYQNAIeI_pXssUfkzCIZEsjpXvMNVYsitEiqclUjovTJ58bpT_dmA0f-hZzIF7T2FTBWU-nPluCdlZcCbP0iMzhvNowBUiGsh51LNF8q18thA8flEWDFqxR8qCL8-x0ja2CG6Gp-PenKmaI4PdbjSOgKMveAxwJK_fYrC9aLNkNKq6lQtwE1OXbUZIdWumy61c4DrMGTyaCsJUhPW1wC3ZXI65k69lthRqTuwqvoY2PbPuF2KY8fX10UBMqwgDjKXNqiDPW9wwnqhiLA_QKutS1DhkRtFRv7R9qym9EZ22YArKU_Ns0DnqLiiqlqmU35EcRrMfDgyj_vsQkyQgsRvN607-2Gfjzvm98hnlFzse--8.min.js>; rel=preload; as=script; nopush; group=bottom",
+          "Server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "Strict-Transport-Security": "max-age=15552000",
+          "Vary": "Accept-Encoding, Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+          "Via": "1.1 google",
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "content-security-policy": "frame-ancestors 'self' https://*.seo.aws.about.com https://*.dotdash.com *.ew.com; upgrade-insecure-requests;",
+          "cross-origin-opener-policy": "same-origin-allow-popups",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "referrer-policy": "no-referrer-when-downgrade",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7820/re.p\"}]}",
+          "x-abt-application-version": "4.288.0",
+          "x-connection-protocol": "HTTP/1.1",
+          "x-content-security-policy": "frame-ancestors 'self' https://*.seo.aws.about.com https://*.dotdash.com *.ew.com; upgrade-insecure-requests;",
+          "Set-Cookie": "TMog=n952ba3b4c5be47559f315e0be2085da515; Path=/; Domain=.ew.com; Expires=Fri, 1 Oct 2094 18:49:30 GMT; Max-Age=2147483647; Secure, globalTI_SID=3c309910-8793-45e3-894d-97fa38d08b44; Path=/; Domain=.ew.com; Expires=Tue, 12 Sep 2028 15:35:23 GMT; Max-Age=63072000; Secure, Mint=n952ba3b4c5be47559f315e0be2085da515; Path=/; Domain=.ew.com; Expires=Sun, 13 Sep 2026 16:05:23 GMT; Max-Age=1800; Secure, pc=1; Path=/; Domain=.ew.com; Expires=Sun, 13 Sep 2026 16:05:23 GMT; Max-Age=1800; Secure, __cf_bm=HDUW5xJ23aV5Um9vSu18TVOH6V8cfwVkRgIRHpQnZmA-1789313722.8879316-1.0.1.1-ZqS9066FYuoUDCvAGkrPyMKNyx4A7J0h03R1.kORkp.l8__u.Z_1Z3tMFaiUwo9BmMKcSrysw8ML9eIFbT.T1ds4Vtfx.2pdcI71McUsVo_2mdeEsLlhm3_zmWC0YEvX; HttpOnly; SameSite=None; Secure; Path=/; Domain=ew.com; Expires=Sun, 13 Sep 2026 16:05:23 GMT",
+          "Content-Encoding": "gzip"
+        },
+        "bytes": 340691,
+        "body_head": null
+      },
+      "signed": {
+        "status": 402,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:25 GMT",
+          "Content-Type": "text/html",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+          "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+          "Referrer-Policy": "same-origin",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7820/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838bdda3133d3-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 612,
+        "body_head": "<p>\n  If you are a reader experiencing an access issue, please contact\n  <a href=\"mailto:support@people.inc\">support@people.inc</a>. <br>\n  To help us troubleshoot more quickly, you may include your IP address. <br>\n  You can find it by visiting\n  <a href=\"https://icanhazip.com\" target=\"_blank\" rel=\"noopener noreferrer\">icanhazip.com</a>\n  or\n  <a href=\"https://www.whatismyip.com\" target=\"_blank\" rel=\"noopener noreferrer\">whatismyip.com</a>.\n</p>\n\n<p>\n  If you would like to access our content for licensing, please contact\n  <a href=\"mailto:contentlicensing@people.inc\">contentlicensing@people.i"
+      }
+    },
+    {
+      "host": "foodandwine.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:27 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.foodandwine.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7819/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838cb097f33d3-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:28 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.foodandwine.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7819/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838d47fde33d3-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "health.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:30 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.health.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "Speculation-Rules": "\"/cdn-cgi/speculation\"",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7818/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838e1bc93b24c-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:32 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.health.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "Speculation-Rules": "\"/cdn-cgi/speculation\"",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7818/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838eb2f71b24c-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "investopedia.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:34 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.investopedia.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/555/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a838f7ff3ba443-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:35 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.investopedia.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/555/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839016b28a443-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "lifewire.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:37 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.lifewire.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/552/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8390e1b48659b-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:39 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.lifewire.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/552/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839179bbd659b-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "marthastewart.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:41 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.marthastewart.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/9219/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839263fe9db14-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:43 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.marthastewart.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/9219/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8392fcc2bdb14-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "people.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 200,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:45 GMT",
+          "Content-Type": "text/html;charset=utf-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "CF-Ray": "a3a8393c79c0dc25-DAC",
+          "CF-Cache-Status": "DYNAMIC",
+          "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+          "Link": "<//people.com/static/4.368.0/cache/eNqlV22a3CAIvlB9coj-7SVIJAldI6mamZ3bF83HJJOsdbY_dgXkRQMITOUDBGqqAWwwWDXeV1GCP6rzBg3QoRoNNNiz0eiulAZ0pAlsRVbj56aRtoDsU8DDyBZt8BU4EQh8WVXDNshG1fOA6V8ONCKPglnY541YTwb9HuGAjLqRRk63SVROvwa_OKRRoP3lJXT6O_nhqXEn3aGsPVLXh5892A5_kZfvQ3cpzNjqDNdgBAU6gWEfglK9s1kLN-pkj201BTIUHkpEezoDbtkN4iEE1_QqMns6gxvQ-5hNNdjoiSNb4M8bQcuTA0mWYUg7c0xfpFfu-drE9-DBUdfJN7wKylw-hyd5_EmWQdvJGN84RJvgR7bMhOeGwCR4yvSNvfrya1wes3pL890aBq1gHFU9hcD2WvjVMzPJOTWD00WPtjX4SXWsDFn9ndkEuzzmq5fYMgcJ_LxkXuK1Xj62SXeO60a-BTVkP_yBKYNrDhp8ryZLN3R-ifKlNGNQWoDhbllyB-PdGwzxjgvkJMk49h30-ey1hcS4v_aPnZrHJjrGp1Y0SpWq4jNXI_vwpN4FBh6VD-wIc2FpUlrmc3HTUapFCJNDXXaZ0UlDdw9VG24-jlzmuDQEJJd11H67vE42RkgNZOnKRrqE35z0UAG6I_cPh0jCi5M36uqMuFmsfPZeuPMSyYUog3mynRSl9B0Hpgy-jkjpxnum8PQ545RLVc4L8uNaWGoOnHQ7iLHa0bl66_9M4JaxKpGlucoDx-ITdmQZ1Mg064O8DdR7ugzcjyr00lLnUB-4MgPpwVN00EYV5pdDqyU_lKQ9Nf6VLzMygGcribasucCkcVj9vst4_8BYpJwEU9x9knzDiFLbjTJ77_w0mMf4-bi3DOZf5FpBL4XFGbMIVaBYmV4FhbdaIMsQf2TLQ7D5u-zU9HtkzvUnWerGzxm4EmWwGmEKaw_aM4UNVaaRtY8emP-Ez0mUnW86CjIFNSzj0JErLAxWCjdIMQq95NoL-xfksQPG.min.css>; rel=preload; as=style; nopush, <//people.com/static/fonts/limerick_serial-bold-webfont.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//people.com/static/fonts/limerick_serial-bolditalic-webfont.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//people.com/static/fonts/limerick_serial-italic-webfont.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//people.com/static/fonts/limerick_serial-regular-webfont.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin; nopush, <//www.googletagmanager.com/gtm.js?id=GTM-P3X3VT7>; rel=preload; as=script; nopush, <//www.googletagmanager.com/gtag/js?id=G-31EK5CQB08&l=dataLayer&cx=c>; rel=preload; as=script; nopush, <//securepubads.g.doubleclick.net/tag/js/gpt.js>; rel=preload; as=script; nopush, <//people.com/static/4.368.0/cache/eNp9lMlygzAMhl-olGdIe-ipM5k2056FLUDFWIwl00meviaTLqQKBxb7-yVkLdSioOTqEaIGrD-k1gQO7-r1vuNx4ohRpQ5w5KyL8kMq16MbrsUFBQaP3gCOeSAUg2SlQGqzNlZb2PO4yZcjDRS7TdGM0XOqtU-sZeuGG6zAy03mPmeDjeWlahLCMDGVFP5ICpuQp4CbgQU4HYVOWLLNsaXuWhKokbWufASToFPiuFFJJ6k936yY4dhYOZigw2om_Nzw2-l4LnUgN1Tfuf_Vs88BzxHzpNAU28vTkoC_nLqCidYrK7rcSG4sPy-Hh-Wy0G6EE8d6n5tA0mPaZU8YXYH_tyx7o3Z_439GTeTksOQBk6nJ50pVbWBO10vL4B2bt1UJftFrYDVtnvaH5bKQQupQl_kQaLGcWC2VuHXrr2pEvlSe9GjhhGW0Mh6uG-FPxxTHi7Kb1HbQJpR-aZHdrQgey3gpzfhKXYTwDLH0abo5KXKf44wU-vI3ki9MaONS.min.js>; rel=preload; as=script; nopush; group=top, <//people.com/static/4.368.0/cache/eNqlVFty5CAMvNCyVM6Q31xCBplRRoAL5PE4p1_Znk08L2qq8oVo1I0eCFsFhJx1OQ45YZJqJ_IBdXVjlRyNY3JHIwXckVJ4jP6xF5kISRjtZ7VRDXOCRMxgqiuZ-dZrdyclwZKArccey8JfjYL-h5T9yFj3LClnA31PTCBoBELAcosypaMpOBWSTVj5EYvDll8jUjxvkdLXxqmL5h34awGj-cPIYgYeA6W7KiiH4Ws24BtX_e_kASkc5P0AKeAHVcGkpXgENrQC5077c0DwK3lZbt2ZujUyeHubjSfgHBqKCU4U9CwnO4p2QWaj0N5ukPtcYrUVobiDWTZ7u8GLWCsENB2kpQjX2wZvy-ayrC16LbOtUGtiP-Zr1H5k1sFBTCv9evvoQSwzBhPMrZHpoK7j2TOeqWNsP6CrrFtR41QZRd_wpe33SGv4o7ZgCSpQ_-22O6_oloLoO84Rh8VXfcr2-dS9_RqZddyrmB7R723DGbyJueDvZKoyj_Ozgd0ugaQKpdWnE3nM5nMaGGat4ZCLpkhi75DXRb65z8aW698uVJRGq1zWj_osI7AZYI7PsH-w2nBo.min.js>; rel=preload; as=script; nopush; group=bottom",
+          "Server": "cloudflare",
+          "Set-Cookie": "TMog=nda31b32ce9dc4aad9fc0bc5387e4537c15; Path=/; Domain=.people.com; Expires=Fri, 1 Oct 2094 18:49:52 GMT; Max-Age=2147483647; Secure, globalTI_SID=305f7a25-2f48-42bb-a26b-767fe38dd154; Path=/; Domain=.people.com; Expires=Tue, 12 Sep 2028 15:35:45 GMT; Max-Age=63072000; Secure, Mint=nda31b32ce9dc4aad9fc0bc5387e4537c15; Path=/; Domain=.people.com; Expires=Sun, 13 Sep 2026 16:05:45 GMT; Max-Age=1800; Secure, pc=1; Path=/; Domain=.people.com; Expires=Sun, 13 Sep 2026 16:05:45 GMT; Max-Age=1800; Secure",
+          "Strict-Transport-Security": "max-age=15552000",
+          "Vary": "Accept-Encoding, Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+          "content-security-policy": "frame-ancestors 'self' https://*.seo.aws.about.com https://*.dotdash.com *.people.com; upgrade-insecure-requests;",
+          "cross-origin-opener-policy": "same-origin-allow-popups",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "referrer-policy": "no-referrer-when-downgrade",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7815/re.p\"}]}",
+          "x-abt-application-version": "4.368.0",
+          "x-connection-protocol": "HTTP/1.1",
+          "x-content-security-policy": "frame-ancestors 'self' https://*.seo.aws.about.com https://*.dotdash.com *.people.com; upgrade-insecure-requests;",
+          "x-content-type-options": "nosniff",
+          "Content-Encoding": "gzip",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 460141,
+        "body_head": null
+      },
+      "signed": {
+        "status": 402,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:47 GMT",
+          "Content-Type": "text/html",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+          "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+          "Referrer-Policy": "same-origin",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7815/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8394a0d1fdc25-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 612,
+        "body_head": "<p>\n  If you are a reader experiencing an access issue, please contact\n  <a href=\"mailto:support@people.inc\">support@people.inc</a>. <br>\n  To help us troubleshoot more quickly, you may include your IP address. <br>\n  You can find it by visiting\n  <a href=\"https://icanhazip.com\" target=\"_blank\" rel=\"noopener noreferrer\">icanhazip.com</a>\n  or\n  <a href=\"https://www.whatismyip.com\" target=\"_blank\" rel=\"noopener noreferrer\">whatismyip.com</a>.\n</p>\n\n<p>\n  If you would like to access our content for licensing, please contact\n  <a href=\"mailto:contentlicensing@people.inc\">contentlicensing@people.i"
+      }
+    },
+    {
+      "host": "realsimple.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:49 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.realsimple.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7814/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83956cc05b24d-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:51 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.realsimple.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7814/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839603d9eb24d-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "seriouseats.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:53 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.seriouseats.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/5463/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8396d3a1c4f02-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:54 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.seriouseats.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/5463/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83976aa874f02-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "southernliving.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:56 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.southernliving.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7812/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83983ae7ac70f-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:35:58 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.southernliving.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7812/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8398d28b0c70f-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "thebalancemoney.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:00 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.thebalancemoney.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/553/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a8399baca8b253-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:02 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.thebalancemoney.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/553/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839a51db4b253-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "thespruce.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:04 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.thespruce.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/557/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839b21e5dc70f-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:05 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.thespruce.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/557/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839bb9ca1c70f-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "thoughtco.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:07 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.thoughtco.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/561/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839c97aad1900-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:09 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.thoughtco.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/561/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839d2feec1900-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "travelandleisure.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:11 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.travelandleisure.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7811/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839e0da51b252-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:13 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.travelandleisure.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/7811/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839ea4c92b252-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "treehugger.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:15 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.treehugger.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/3961/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a839f84993659b-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:16 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.treehugger.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/3961/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83a01bcd2659b-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "verywellhealth.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:19 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.verywellhealth.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/563/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83a0f8cb3d8ae-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:20 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.verywellhealth.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/563/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83a190827d8ae-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "verywellmind.com",
+      "group": "signed_only",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:22 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.verywellmind.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/566/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83a27bad6db14-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Date": "Sun, 13 Sep 2026 15:36:24 GMT",
+          "Content-Type": "text/html; charset=UTF-8",
+          "Transfer-Encoding": "chunked",
+          "Connection": "keep-alive",
+          "Location": "https://www.verywellmind.com/",
+          "Strict-Transport-Security": "max-age=15552000",
+          "x-connection-protocol": "HTTP/1.1",
+          "nel": "{\"report_to\":\"network-errors\",\"max_age\":2592000,\"success_fraction\":0,\"failure_fraction\":1.0,\"include_subdomains\":true}",
+          "report-to": "{\"group\":\"network-errors\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://rjs.3gl.net/hawklogserver/566/re.p\"}]}",
+          "Server": "cloudflare",
+          "CF-RAY": "a3a83a312f85db14-DAC",
+          "alt-svc": "h3=\":443\"; ma=86400"
+        },
+        "bytes": 167,
+        "body_head": null
+      }
+    },
+    {
+      "host": "telegraph.co.uk",
+      "group": "both_arms",
+      "unsigned": {
+        "status": 301,
+        "headers": {
+          "Content-Length": "0",
+          "Connection": "keep-alive",
+          "Date": "Sun, 13 Sep 2026 00:33:34 GMT",
+          "Location": "https://www.telegraph.co.uk/",
+          "Server": "AmazonS3",
+          "X-Cache": "Hit from cloudfront",
+          "Via": "1.1 ca3b94b69d4952dbc9a14f81638ea962.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "MRS53-P1",
+          "X-Amz-Cf-Id": "IPfnsnEEXhjY4bfm98J2ZeYyBioBKzHvn9_VhqGYxRGgrk6o5t9lOg==",
+          "Age": "54175"
+        },
+        "bytes": 0,
+        "body_head": null
+      },
+      "signed": {
+        "status": 301,
+        "headers": {
+          "Content-Length": "0",
+          "Connection": "keep-alive",
+          "Date": "Sun, 13 Sep 2026 00:33:34 GMT",
+          "Location": "https://www.telegraph.co.uk/",
+          "Server": "AmazonS3",
+          "X-Cache": "Hit from cloudfront",
+          "Via": "1.1 ca3b94b69d4952dbc9a14f81638ea962.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "MRS53-P1",
+          "X-Amz-Cf-Id": "a85pOALrsYlEYgyHnK66I8po3UdjcuNyTp5bEYhxuiHN9svZeOx7fg==",
+          "Age": "54176"
+        },
+        "bytes": 0,
+        "body_head": null
+      }
+    },
+    {
+      "host": "allhen.online",
+      "group": "both_arms",
+      "unsigned": {
+        "status": 402,
+        "headers": {
+          "Server": "nginx/1.22.0",
+          "Date": "Sun, 13 Sep 2026 15:36:33 GMT",
+          "Content-Type": "text/plain",
+          "Content-Length": "24",
+          "Connection": "keep-alive",
+          "Allow": "GET, POST, HEAD, OPTIONS"
+        },
+        "bytes": 24,
+        "body_head": "NOT FOUND IN THE ADDRESS"
+      },
+      "signed": {
+        "status": 402,
+        "headers": {
+          "Server": "nginx/1.22.0",
+          "Date": "Sun, 13 Sep 2026 15:36:35 GMT",
+          "Content-Type": "text/plain",
+          "Content-Length": "24",
+          "Connection": "keep-alive",
+          "Allow": "GET, POST, HEAD, OPTIONS"
+        },
+        "bytes": 24,
+        "body_head": "NOT FOUND IN THE ADDRESS"
+      }
+    },
+    {
+      "host": "mintmanga.one",
+      "group": "both_arms",
+      "unsigned": {
+        "status": 402,
+        "headers": {
+          "Server": "nginx/1.24.0 (Ubuntu)",
+          "Date": "Sun, 13 Sep 2026 15:36:38 GMT",
+          "Content-Type": "application/octet-stream",
+          "Content-Length": "24",
+          "Connection": "keep-alive",
+          "Allow": "GET, POST, HEAD, OPTIONS"
+        },
+        "bytes": 24,
+        "body_head": "NOT FOUND IN THE ADDRESS"
+      },
+      "signed": {
+        "status": 402,
+        "headers": {
+          "Server": "nginx/1.24.0 (Ubuntu)",
+          "Date": "Sun, 13 Sep 2026 15:36:40 GMT",
+          "Content-Type": "application/octet-stream",
+          "Content-Length": "24",
+          "Connection": "keep-alive",
+          "Allow": "GET, POST, HEAD, OPTIONS"
+        },
+        "bytes": 24,
+        "body_head": "NOT FOUND IN THE ADDRESS"
+      }
+    }
+  ]
+}

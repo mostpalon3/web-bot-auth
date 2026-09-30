@@ -1,0 +1,23 @@
+{
+  "target": "https://wba-probe.aniksaha4049.workers.dev/",
+  "listed_keyid": "otMqcjr17mGyruktGvJU8oojQTSMHlVm7uO-lrcqbdg",
+  "collected_utc": "20260913T144830Z",
+  "user_agent": "wba-impersonation-test/0.1 (+https://joya-biswas.github.io/signed-lane/; self-directed test against an origin we control; contact: joyabiswas0103@gmail.com)",
+  "results": {
+    "A unsigned": {
+      "served": 5
+    },
+    "B our key, unlisted": {
+      "served": 5
+    },
+    "C listed keyid, junk sig": {
+      "served": 5
+    },
+    "D listed keyid, our sig": {
+      "served": 5
+    },
+    "E our keyid, their agent": {
+      "served": 5
+    }
+  }
+}

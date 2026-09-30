@@ -1,0 +1,2 @@
+# Hosts that asked not to be scanned. Permanent, honoured without argument.
+# Keep this file in version control: it is the evidence opt-outs were respected.

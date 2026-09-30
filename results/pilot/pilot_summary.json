@@ -1,0 +1,89 @@
+{
+  "collected_utc": "2026-09-10",
+  "frame": "Tranco top 5000 (daily list)",
+  "tranco_sha256": "24abc3eebcbbaf41acdad1bb65582e2c09876ed144fa0ea52b0ae6bb0a7537c0",
+  "scanned": 4999,
+  "resolvable": 4033,
+  "found": 5,
+  "response_distribution": {
+    "http_404": 2276,
+    "dns": 966,
+    "http_403": 571,
+    "not_json": 481,
+    "connect_timeout": 184,
+    "connect": 180,
+    "tls": 179,
+    "http_406": 22,
+    "http_400": 20,
+    "http_503": 15,
+    "http_500": 14,
+    "http_202": 11,
+    "http_429": 8,
+    "http_410": 7,
+    "http_502": 7,
+    "http_204": 7,
+    "http_418": 6,
+    "http_401": 6,
+    "ok": 5,
+    "no_keys_or_card": 5,
+    "toomanyredirects": 5,
+    "http_520": 4,
+    "http_405": 4,
+    "http_521": 2,
+    "http_300": 2,
+    "http_301": 2,
+    "locationparseerror": 1,
+    "http_421": 1,
+    "http_523": 1,
+    "http_440": 1,
+    "oversized": 1,
+    "http_522": 1,
+    "http_526": 1,
+    "http_444": 1,
+    "http_417": 1,
+    "http_412": 1
+  },
+  "directories": [
+    {
+      "rank": 74,
+      "host": "chatgpt.com",
+      "shape": "jwks",
+      "key_count": 1,
+      "kids": "otMqcjr17mGyruktGvJU8oojQTSMHlVm7uO-lrcqbdg",
+      "declared": {}
+    },
+    {
+      "rank": 270,
+      "host": "forter.com",
+      "shape": "jwks",
+      "key_count": 1,
+      "kids": "8uWLjbCLblTwd2KGi3fE_sAO-0_9UofZYJgzPlKm5JI",
+      "declared": {}
+    },
+    {
+      "rank": 348,
+      "host": "checkpoint.com",
+      "shape": "jwks",
+      "key_count": 1,
+      "kids": "XgfEjTcLRZmf41AOiuFHmgPS5BWlkohq9Pec7Xo3tRI",
+      "declared": {}
+    },
+    {
+      "rank": 839,
+      "host": "meta.com",
+      "shape": "jwks",
+      "key_count": 3,
+      "kids": "Iy80tzAcbbb85lkjfKieYYwxAqinLDqDUBXjVMEnI_s;PZZZiz0rLbE9RZJ1DyryOFQzzqVwf96kCcr44MMKP0M;t8VHBHRHuPs0g3WFixNY2qbjohTnOWMIcd3neRZTkbE",
+      "declared": {}
+    },
+    {
+      "rank": 2141,
+      "host": "ahrefs.com",
+      "shape": "jwks",
+      "key_count": 2,
+      "kids": "e3vpiy0B6M1Wdxnizw3dqRSgpqS6SXM2qiQ6HtUwZ5g;0227KWFT1389RBnlR8TLhbMaA_Of2MbNPhmlNICS7eI",
+      "declared": {}
+    }
+  ],
+  "status": "exploratory - no hypotheses registered in advance"
+}

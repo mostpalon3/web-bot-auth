@@ -1,0 +1,19 @@
+# GitHub Pages configuration.
+#
+# Without this the page renders as unstyled text. The people most likely to
+# read it are administrators checking whether unfamiliar traffic in their logs
+# is legitimate research, and they will judge partly on whether the page looks
+# like it belongs to a real project.
+
+title: Web Bot Auth deployment measurement
+description: >-
+  An academic measurement study of how the Web Bot Auth protocol is deployed
+  on the web. Method, pre-registration and opt-out information.
+
+theme: jekyll-theme-minimal
+
+author: Sumit Sagar, Tanishka Sharma, Gautam Bajaj
+
+# Nothing in docs/ is a blog, so disable the post machinery.
+show_downloads: false
+include: [".well-known"]

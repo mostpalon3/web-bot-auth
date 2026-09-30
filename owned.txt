@@ -1,0 +1,6 @@
+# Origins you control. The impersonation test refuses anything not listed.
+# One hostname per line; subdomains of a listed host are covered.
+#
+# Add your Cloudflare-fronted domain here, e.g.:
+# mydomain.example
+aniksaha4049.workers.dev

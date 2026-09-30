@@ -1,0 +1,5493 @@
+{
+  "collected_utc": "20260913T193627Z",
+  "worker": "https://wba-probe.aniksaha4049.workers.dev",
+  "agent": "https://wba-probe.aniksaha4049.workers.dev",
+  "user_agent": "wba-vantage/0.1 (+https://joya-biswas.github.io/signed-lane/; academic measurement from a second network vantage; two requests per origin; contact: joyabiswas0103@gmail.com)",
+  "colos": {
+    "DAC": 12
+  },
+  "rows": [
+    {
+      "host": "cloudflare.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 63179,
+        "latency_ms": 758,
+        "server": "cloudflare",
+        "cf_ray": "a3a98bf828a92508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6152,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a98bfc6ab72508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "chatgpt.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6639,
+        "latency_ms": 178,
+        "server": "cloudflare",
+        "cf_ray": "a3a98bfefc2b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6639,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c029e6c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "openai.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 448053,
+        "latency_ms": 509,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c051fce2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 10469,
+        "latency_ms": 211,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c0acb542508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "mts.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1041557,
+        "latency_ms": 4198,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c193b492508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 300,
+        "latency_ms": 183,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c2b5d922508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "medium.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5742,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c2eff5b2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4551,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c3178a72508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "canva.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 9077,
+        "latency_ms": 495,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c353a832508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 755510,
+        "latency_ms": 190,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c39acd42508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "expireddomains.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 914384,
+        "latency_ms": 1083,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c3d4ef52508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4559,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c468bfb2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "ft.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 270553,
+        "latency_ms": 1380,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c50598c2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 270980,
+        "latency_ms": 958,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c5a2e5d2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "britannica.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5772,
+        "latency_ms": 1133,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c63bb0f2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6198,
+        "latency_ms": 238,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c67bd4e2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "perplexity.ai",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5771,
+        "latency_ms": 6,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c6a4ea32508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6197,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c6ccfea2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "onlyfans.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4553,
+        "latency_ms": 69,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c6f598c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4553,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c723b3c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "ebay.co.uk",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 1831,
+        "latency_ms": 1906,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c79ef7d2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 1831,
+        "latency_ms": 321,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c84ed672508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "life360.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 204176,
+        "latency_ms": 1536,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c8e7ae02508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4552,
+        "latency_ms": 302,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c95aec62508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "magnit.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1248860,
+        "latency_ms": 3029,
+        "server": "cloudflare",
+        "cf_ray": "a3a98c9828272508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 63,
+        "latency_ms": 251,
+        "server": "cloudflare",
+        "cf_ray": "a3a98cad9d402508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "character.ai",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 318496,
+        "latency_ms": 2066,
+        "server": "cloudflare",
+        "cf_ray": "a3a98cb1a8622508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 318496,
+        "latency_ms": 2684,
+        "server": "cloudflare",
+        "cf_ray": "a3a98cc11a932508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "ancestry.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 2,
+        "latency_ms": 288,
+        "server": "cloudflare",
+        "cf_ray": "a3a98cd45d802508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 2,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98cd8afe02508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "flightradar24.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 165510,
+        "latency_ms": 665,
+        "server": "cloudflare",
+        "cf_ray": "a3a98cdb39232508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 1
+      }
+    },
+    {
+      "host": "trendyol.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "ecosia.org",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "epicgames.dev",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "hltv.org",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "janitorai.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "rutube.ru",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "fetlife.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "hugedomains.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "noodlemagazine.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 78754,
+        "latency_ms": 1507,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d107f2d2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6283,
+        "latency_ms": 13,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d186b512508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "merriam-webster.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5777,
+        "latency_ms": 606,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d1ecf602508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6203,
+        "latency_ms": 256,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d22da062508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "sotwe.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5767,
+        "latency_ms": 102,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d260bea2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d288d442508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "aternos.org",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 60599,
+        "latency_ms": 807,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d2b6ed12508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6149,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d329b1d2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "mydramalist.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 17,
+        "latency_ms": 162,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d351c9a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 17,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d38aebd2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "arca.live",
+      "A": {
+        "outcome": "rate_limited",
+        "status": 429,
+        "bytes": 11234,
+        "latency_ms": 185,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d3b28112508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6147,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d3eca1c2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "fdown.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 45956,
+        "latency_ms": 119,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d415b982508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6168,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d449d6c2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "action.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 212473,
+        "latency_ms": 741,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d490fc42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6190,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d4e3ac32508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "iporntv.net",
+      "A": {
+        "outcome": "http_520",
+        "status": 520,
+        "bytes": 16,
+        "latency_ms": 5578,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d50bc342508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d76199d2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "ukdevilz.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 94036,
+        "latency_ms": 1374,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d7b7c502508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6277,
+        "latency_ms": 12,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d83b8bc2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "ficbook.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 134990,
+        "latency_ms": 1027,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d864a342508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 32505,
+        "latency_ms": 209,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d8f3f622508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "theblowers.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 395722,
+        "latency_ms": 1389,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d943a7c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6173,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98d9e28062508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "liteapks.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 97850,
+        "latency_ms": 160,
+        "server": "cloudflare",
+        "cf_ray": "a3a98da0b9562508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98da43b4a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "luxuretv.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 53721,
+        "latency_ms": 703,
+        "server": "cloudflare",
+        "cf_ray": "a3a98da6bca42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98dad9ff92508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "toyhou.se",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 6269,
+        "latency_ms": 475,
+        "server": "cloudflare",
+        "cf_ray": "a3a98db029142508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6168,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98db59bfb2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "mangago.me",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 379327,
+        "latency_ms": 858,
+        "server": "cloudflare",
+        "cf_ray": "a3a98db81d562508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98dbff9b22508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "myinstants.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 87945,
+        "latency_ms": 564,
+        "server": "cloudflare",
+        "cf_ray": "a3a98dc5fd232508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4555,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a98dc88e662508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "missav.live",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4552,
+        "latency_ms": 49,
+        "server": "cloudflare",
+        "cf_ray": "a3a98dcb0fc42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4552,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98dcdd8f82508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "missav123.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4554,
+        "latency_ms": 90,
+        "server": "cloudflare",
+        "cf_ray": "a3a98dd0eaae2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 2
+      }
+    },
+    {
+      "host": "fatalmodel.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "hanime1.me",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "goodreturns.in",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "czbooks.net",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "chordtela.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "freewebnovel.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "sexalarab.com",
+      "A": {
+        "outcome": "http_520",
+        "status": 520,
+        "bytes": 16,
+        "latency_ms": 41592,
+        "server": "cloudflare",
+        "cf_ray": "a3a98df42bc62508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98efa987b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "njavtv.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4551,
+        "latency_ms": 89,
+        "server": "cloudflare",
+        "cf_ray": "a3a98efd19f12508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4551,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f002ba62508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "afribaba.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 196031,
+        "latency_ms": 334,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f044db02508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f074f382508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "indown.io",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 60119,
+        "latency_ms": 1128,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f0f1b732508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6168,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f135da12508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "animanch.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 84859,
+        "latency_ms": 312,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f15def12508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4553,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f1a49092508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "tamildhool.tech",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 107430,
+        "latency_ms": 464,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f1dcb2e2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f223d832508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "xahani.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 165372,
+        "latency_ms": 542,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f26dffb2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f2aa9c92508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "javwow.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 93689,
+        "latency_ms": 330,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f2d2b3a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4846,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f31bd8e2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "adroll.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 48814,
+        "latency_ms": 862,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f356fd22508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 48814,
+        "latency_ms": 42,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f3c2b502508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "darknessporn.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 154358,
+        "latency_ms": 352,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f3edc812508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f439ea32508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "shaalaa.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 32619,
+        "latency_ms": 271,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f46e8a72508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f4a4a742508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "conectate.com.do",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 76807,
+        "latency_ms": 2933,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f5aaa522508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4557,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f619ebc2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "udemy.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5762,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f64280e2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6210,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f66a95f2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "beeline.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 365516,
+        "latency_ms": 6792,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f90c9562508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 23184,
+        "latency_ms": 324,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f962c9b2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "match.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 221568,
+        "latency_ms": 1742,
+        "server": "cloudflare",
+        "cf_ray": "a3a98f9b9fa62508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4550,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a98fa80edc2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "earthlink.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 234857,
+        "latency_ms": 252,
+        "server": "cloudflare",
+        "cf_ray": "a3a98fab48d42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 26867,
+        "latency_ms": 207,
+        "server": "cloudflare",
+        "cf_ray": "a3a98faeaa872508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "shorturl.at",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 29260,
+        "latency_ms": 663,
+        "server": "cloudflare",
+        "cf_ray": "a3a98fb50dff2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a98fb918502508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "mos.ru",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "coinbase.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "crunchyroll.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "inmotionhosting.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "pcmag.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "qz.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "glassdoor.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "ucl.ac.uk",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "alrosa.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 238081,
+        "latency_ms": 2127,
+        "server": "cloudflare",
+        "cf_ray": "a3a98fe529132508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 276,
+        "latency_ms": 232,
+        "server": "cloudflare",
+        "cf_ray": "a3a98ff4e9d12508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "riskified.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 215075,
+        "latency_ms": 451,
+        "server": "cloudflare",
+        "cf_ray": "a3a98ffb0cbf2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6197,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a98ffe3e742508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "envato.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 504607,
+        "latency_ms": 510,
+        "server": "cloudflare",
+        "cf_ray": "a3a99000cfe82508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 504645,
+        "latency_ms": 542,
+        "server": "cloudflare",
+        "cf_ray": "a3a990067af42508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "heylink.me",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5742,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9900c4e7f2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9900ed80a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "indiegogo.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5792,
+        "latency_ms": 226,
+        "server": "cloudflare",
+        "cf_ray": "a3a990123a072508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6197,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a990153b642508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "brandbucket.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 245712,
+        "latency_ms": 3348,
+        "server": "cloudflare",
+        "cf_ray": "a3a9901f08a42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a9902f2a2a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "unrealengine.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 25016,
+        "latency_ms": 914,
+        "server": "cloudflare",
+        "cf_ray": "a3a990374e2d2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 25442,
+        "latency_ms": 241,
+        "server": "cloudflare",
+        "cf_ray": "a3a9903b689c2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "redbubble.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 386394,
+        "latency_ms": 1173,
+        "server": "cloudflare",
+        "cf_ray": "a3a9903edaac2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6193,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99047cf392508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "intelbras.com.br",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 473430,
+        "latency_ms": 6019,
+        "server": "cloudflare",
+        "cf_ray": "a3a9905efcaf2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6197,
+        "latency_ms": 434,
+        "server": "cloudflare",
+        "cf_ray": "a3a99075194e2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "n-able.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 431392,
+        "latency_ms": 1077,
+        "server": "cloudflare",
+        "cf_ray": "a3a9907d2dbe2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6215,
+        "latency_ms": 251,
+        "server": "cloudflare",
+        "cf_ray": "a3a99082687b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "toasttab.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 764957,
+        "latency_ms": 4173,
+        "server": "cloudflare",
+        "cf_ray": "a3a99092ba032508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 923,
+        "server": "cloudflare",
+        "cf_ray": "a3a990a73fbc2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "fbi.gov",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 94628,
+        "latency_ms": 494,
+        "server": "cloudflare",
+        "cf_ray": "a3a990aa29f02508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6166,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a990af5d292508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "arlo.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 15,
+        "latency_ms": 72,
+        "server": "cloudflare",
+        "cf_ray": "a3a990b1de882508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 15,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a990b4cffa2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "webnovel.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 135708,
+        "latency_ms": 1173,
+        "server": "cloudflare",
+        "cf_ray": "a3a990bb6c182508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6192,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a990c12fc62508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "dhgate.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "reverso.net",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "undertone.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "teepublic.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "termsfeed.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "vidazoo.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "studocu.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "nag.ru",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "news24.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "visualcapitalist.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "bb.com.br",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "coingecko.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 2175291,
+        "latency_ms": 722,
+        "server": "cloudflare",
+        "cf_ray": "a3a990fad8ca2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 1452375,
+        "latency_ms": 258,
+        "server": "cloudflare",
+        "cf_ray": "a3a99101dcc12508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "umass.edu",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 240454,
+        "latency_ms": 2257,
+        "server": "cloudflare",
+        "cf_ray": "a3a991114d362508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4550,
+        "latency_ms": 272,
+        "server": "cloudflare",
+        "cf_ray": "a3a99118398b2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "findlaw.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 177025,
+        "latency_ms": 169,
+        "server": "cloudflare",
+        "cf_ray": "a3a9911b8bc82508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 177024,
+        "latency_ms": 29,
+        "server": "cloudflare",
+        "cf_ray": "a3a9911e4d322508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "tvtropes.org",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 135016,
+        "latency_ms": 56,
+        "server": "cloudflare",
+        "cf_ray": "a3a99120ff0a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a99123c8fb2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "marinetraffic.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 2449,
+        "latency_ms": 422,
+        "server": "cloudflare",
+        "cf_ray": "a3a991271ad12508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4558,
+        "latency_ms": 7,
+        "server": "cloudflare",
+        "cf_ray": "a3a9912b7da22508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "thunderbird.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 274076,
+        "latency_ms": 366,
+        "server": "cloudflare",
+        "cf_ray": "a3a9913038462508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a99132c9db2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "kit.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 508489,
+        "latency_ms": 342,
+        "server": "cloudflare",
+        "cf_ray": "a3a991354b722508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 10681,
+        "latency_ms": 187,
+        "server": "cloudflare",
+        "cf_ray": "a3a99139fe5f2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "guzelhosting.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 196125,
+        "latency_ms": 1883,
+        "server": "cloudflare",
+        "cf_ray": "a3a991413ae42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 212553,
+        "latency_ms": 745,
+        "server": "cloudflare",
+        "cf_ray": "a3a9914ece192508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "x.ai",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 237859,
+        "latency_ms": 1116,
+        "server": "cloudflare",
+        "cf_ray": "a3a99153098f2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4545,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9915c89442508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "nhentai.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 40255,
+        "latency_ms": 695,
+        "server": "cloudflare",
+        "cf_ray": "a3a9915f0c3c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a99165d8232508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "neilpatel.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 167531,
+        "latency_ms": 166,
+        "server": "cloudflare",
+        "cf_ray": "a3a9916869a82508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a9916bebd82508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "aiscore.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5721,
+        "latency_ms": 165,
+        "server": "cloudflare",
+        "cf_ray": "a3a9916e7d4d2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6149,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99171ff7a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "ebay.com.au",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 1831,
+        "latency_ms": 1948,
+        "server": "cloudflare",
+        "cf_ray": "a3a99178aba52508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 1831,
+        "latency_ms": 453,
+        "server": "cloudflare",
+        "cf_ray": "a3a99185cbaa2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "steaminventoryhelper.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6145,
+        "latency_ms": 279,
+        "server": "cloudflare",
+        "cf_ray": "a3a991888d2f2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6145,
+        "latency_ms": 10,
+        "server": "cloudflare",
+        "cf_ray": "a3a9918ccfc02508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "trulia.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 200619,
+        "latency_ms": 3221,
+        "server": "cloudflare",
+        "cf_ray": "a3a991972e442508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 200619,
+        "latency_ms": 1907,
+        "server": "cloudflare",
+        "cf_ray": "a3a991abfb152508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "iherb.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5741,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a991b4585e2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6168,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a991b6e9d62508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "9mod.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 92810,
+        "latency_ms": 362,
+        "server": "cloudflare",
+        "cf_ray": "a3a991b96b3c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6167,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a991be2de12508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "just-eat.co.uk",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "ebay.it",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "yolasite.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "revolut.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "benzinga.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "sberbank-tele.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "imunify360.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "apkmirror.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "diigo.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 12008,
+        "latency_ms": 2296,
+        "server": "cloudflare",
+        "cf_ray": "a3a991efce372508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6168,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a991f9dd0a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "atptour.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5769,
+        "latency_ms": 1674,
+        "server": "cloudflare",
+        "cf_ray": "a3a99205ad432508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 301,
+        "server": "cloudflare",
+        "cf_ray": "a3a9920b28af2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "alldatasheet.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5770,
+        "latency_ms": 112,
+        "server": "cloudflare",
+        "cf_ray": "a3a9920dba472508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a99210ec232508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "withings.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 570926,
+        "latency_ms": 2986,
+        "server": "cloudflare",
+        "cf_ray": "a3a99220be272508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 202,
+        "server": "cloudflare",
+        "cf_ray": "a3a99229db2b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "4pda.to",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 9599,
+        "latency_ms": 409,
+        "server": "cloudflare",
+        "cf_ray": "a3a9922c5cb82508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 10026,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a992316ffa2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "tracker.gg",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5742,
+        "latency_ms": 358,
+        "server": "cloudflare",
+        "cf_ray": "a3a99233e9df2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6190,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a99238ac802508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "avid.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 260080,
+        "latency_ms": 509,
+        "server": "cloudflare",
+        "cf_ray": "a3a9923c8eab2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6149,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a99240d91a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "perchance.org",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 81352,
+        "latency_ms": 809,
+        "server": "cloudflare",
+        "cf_ray": "a3a992455b8f2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9924aee682508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "yaplakal.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 133110,
+        "latency_ms": 1628,
+        "server": "cloudflare",
+        "cf_ray": "a3a99251aa1b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9925a1edb2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "thekitchn.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 418020,
+        "latency_ms": 3469,
+        "server": "cloudflare",
+        "cf_ray": "a3a992605aae2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 418020,
+        "latency_ms": 549,
+        "server": "cloudflare",
+        "cf_ray": "a3a992768f482508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "crushon.ai",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 495490,
+        "latency_ms": 473,
+        "server": "cloudflare",
+        "cf_ray": "a3a9927ab99c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a992803cf12508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "betano.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 30576,
+        "latency_ms": 630,
+        "server": "cloudflare",
+        "cf_ray": "a3a99283cf022508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 358,
+        "latency_ms": 216,
+        "server": "cloudflare",
+        "cf_ray": "a3a992892a7c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "oneindia.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 875491,
+        "latency_ms": 305,
+        "server": "cloudflare",
+        "cf_ray": "a3a9928dad032508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4839,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a992916f552508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "camsoda.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 245269,
+        "latency_ms": 995,
+        "server": "cloudflare",
+        "cf_ray": "a3a9929599862508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6259,
+        "latency_ms": 15,
+        "server": "cloudflare",
+        "cf_ray": "a3a9929cbd9a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "temp-mail.org",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 83412,
+        "latency_ms": 1725,
+        "server": "cloudflare",
+        "cf_ray": "a3a9929f3ef62508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4554,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a992ac8f012508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "truthsocial.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5811,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a992af08592508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4556,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a992b189ff2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "sportsapi.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 74,
+        "latency_ms": 1889,
+        "server": "cloudflare",
+        "cf_ray": "a3a992b41b582508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "mango-office.ru",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "jeuxvideo.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "blooket.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "tube8.fr",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "xfree.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "wpzoom.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "loteriasdominicanas.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "decathlon.fr",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "thuvienphapluat.vn",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 380582,
+        "latency_ms": 211,
+        "server": "cloudflare",
+        "cf_ray": "a3a992ecf8472508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6198,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a992f0cac12508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "tenten.vn",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 219736,
+        "latency_ms": 1306,
+        "server": "cloudflare",
+        "cf_ray": "a3a992f959222508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 1909,
+        "latency_ms": 120,
+        "server": "cloudflare",
+        "cf_ray": "a3a992fdfc8f2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "icons8.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 354693,
+        "latency_ms": 431,
+        "server": "cloudflare",
+        "cf_ray": "a3a993013fcf2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a993067cd62508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "evidon.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 103,
+        "latency_ms": 4380,
+        "server": "cloudflare",
+        "cf_ray": "a3a993220e5a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 103,
+        "latency_ms": 2541,
+        "server": "cloudflare",
+        "cf_ray": "a3a99336ac382508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "sage.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 236513,
+        "latency_ms": 568,
+        "server": "cloudflare",
+        "cf_ray": "a3a99339de242508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4553,
+        "latency_ms": 11,
+        "server": "cloudflare",
+        "cf_ray": "a3a9933f49962508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "forexfactory.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 221728,
+        "latency_ms": 1976,
+        "server": "cloudflare",
+        "cf_ray": "a3a99346fe332508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6187,
+        "latency_ms": 275,
+        "server": "cloudflare",
+        "cf_ray": "a3a993526e552508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "ixigo.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 375131,
+        "latency_ms": 1125,
+        "server": "cloudflare",
+        "cf_ray": "a3a993585a9b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 375131,
+        "latency_ms": 249,
+        "server": "cloudflare",
+        "cf_ray": "a3a9935ebf432508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "whatnot.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1734038,
+        "latency_ms": 831,
+        "server": "cloudflare",
+        "cf_ray": "a3a993628a922508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6199,
+        "latency_ms": 1,
+        "server": "cloudflare",
+        "cf_ray": "a3a9936a3f692508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "ancestry.com.au",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 2,
+        "latency_ms": 79,
+        "server": "cloudflare",
+        "cf_ray": "a3a9936cb90d2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 2,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9936fab542508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "payhip.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5742,
+        "latency_ms": 152,
+        "server": "cloudflare",
+        "cf_ray": "a3a993723dd32508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4551,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99375a84c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "imhentai.xxx",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 43352,
+        "latency_ms": 1085,
+        "server": "cloudflare",
+        "cf_ray": "a3a993782a8d2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a993816a502508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "rebrand.ly",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 204065,
+        "latency_ms": 839,
+        "server": "cloudflare",
+        "cf_ray": "a3a993871ebb2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9938bb98f2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "d-zone.ca",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 273100,
+        "latency_ms": 3568,
+        "server": "cloudflare",
+        "cf_ray": "a3a99396b8f82508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6242,
+        "latency_ms": 269,
+        "server": "cloudflare",
+        "cf_ray": "a3a993a8aceb2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "pornoxo.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 326040,
+        "latency_ms": 1562,
+        "server": "cloudflare",
+        "cf_ray": "a3a993b08a2d2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 326171,
+        "latency_ms": 808,
+        "server": "cloudflare",
+        "cf_ray": "a3a993b8af2d2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "sofifa.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 227469,
+        "latency_ms": 996,
+        "server": "cloudflare",
+        "cf_ray": "a3a993bf0b1a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4845,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a993c7b8cd2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "dawn.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 823
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "fragrantica.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "tube8.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "scirp.org",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "toptal.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "convertkit.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "tvspielfilm.de",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "ancestry.co.uk",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "scotsman.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "freeprivacypolicy.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "91mobiles.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 319099,
+        "latency_ms": 240,
+        "server": "cloudflare",
+        "cf_ray": "a3a994021c002508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4554,
+        "latency_ms": 7,
+        "server": "cloudflare",
+        "cf_ray": "a3a994058e422508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "rae.es",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 98306,
+        "latency_ms": 934,
+        "server": "cloudflare",
+        "cf_ray": "a3a99409d8ec2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6144,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a994106c942508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "1tv.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 260560,
+        "latency_ms": 3984,
+        "server": "cloudflare",
+        "cf_ray": "a3a9941bac102508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 300,
+        "latency_ms": 180,
+        "server": "cloudflare",
+        "cf_ray": "a3a9942e499f2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "thredup.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 96389,
+        "latency_ms": 1777,
+        "server": "cloudflare",
+        "cf_ray": "a3a994329c922508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 17504,
+        "latency_ms": 207,
+        "server": "cloudflare",
+        "cf_ray": "a3a9943f8e2d2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "privacy.com.br",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 62384,
+        "latency_ms": 701,
+        "server": "cloudflare",
+        "cf_ray": "a3a99445fb0c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 18396,
+        "latency_ms": 436,
+        "server": "cloudflare",
+        "cf_ray": "a3a9944bdf562508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "lansweeper.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 513388,
+        "latency_ms": 2169,
+        "server": "cloudflare",
+        "cf_ray": "a3a99454de332508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 16923,
+        "latency_ms": 170,
+        "server": "cloudflare",
+        "cf_ray": "a3a9945f7e0e2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "lavoz.com.ar",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1509012,
+        "latency_ms": 3719,
+        "server": "cloudflare",
+        "cf_ray": "a3a994683e7e2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a9947cde9b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "playmogo.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 17887,
+        "latency_ms": 1591,
+        "server": "cloudflare",
+        "cf_ray": "a3a99483db1a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9948bc84c2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "allianz.de",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5746,
+        "latency_ms": 1977,
+        "server": "cloudflare",
+        "cf_ray": "a3a99498c8af2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6173,
+        "latency_ms": 213,
+        "server": "cloudflare",
+        "cf_ray": "a3a9949e7bf02508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "leadsquared.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 103,
+        "latency_ms": 841,
+        "server": "cloudflare",
+        "cf_ray": "a3a994a39f122508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 103,
+        "latency_ms": 46,
+        "server": "cloudflare",
+        "cf_ray": "a3a994a8fa862508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "tele2.ru",
+      "A": {
+        "outcome": "http_503",
+        "status": 503,
+        "bytes": 7530,
+        "latency_ms": 3538,
+        "server": "cloudflare",
+        "cf_ray": "a3a994b6a9622508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 202,
+        "latency_ms": 278,
+        "server": "cloudflare",
+        "cf_ray": "a3a994c428a72508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "bambulab.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 812964,
+        "latency_ms": 754,
+        "server": "cloudflare",
+        "cf_ray": "a3a994ca2c4c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6235,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a994cf9fab2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "pngtree.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 13337,
+        "latency_ms": 238,
+        "server": "cloudflare",
+        "cf_ray": "a3a994d218e02508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a994d61b472508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "tiermaker.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 73386,
+        "latency_ms": 441,
+        "server": "cloudflare",
+        "cf_ray": "a3a994d89cb52508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a994dddfd52508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "asurahosting.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 37191,
+        "latency_ms": 1775,
+        "server": "cloudflare",
+        "cf_ray": "a3a994e5ac432508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a994edf8852508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "cbre.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 331698,
+        "latency_ms": 2204,
+        "server": "cloudflare",
+        "cf_ray": "a3a994fabf4b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "appleinsider.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "decathlon.es",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "decathlon.de",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "westeros.org",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "uquiz.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "decathlon.pl",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "chronopost.fr",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "slobodnadalmacija.hr",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "hentaihaven.xxx",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "itemku.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1249386,
+        "latency_ms": 1275,
+        "server": "cloudflare",
+        "cf_ray": "a3a995353f862508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6173,
+        "latency_ms": 190,
+        "server": "cloudflare",
+        "cf_ray": "a3a9953c0af42508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "proxysite.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 24344,
+        "latency_ms": 1756,
+        "server": "cloudflare",
+        "cf_ray": "a3a9954448062508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a9954c0bc62508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "babepedia.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 64215,
+        "latency_ms": 534,
+        "server": "cloudflare",
+        "cf_ray": "a3a995505e062508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9955468102508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "nexcess.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1276916,
+        "latency_ms": 2641,
+        "server": "cloudflare",
+        "cf_ray": "a3a995621fc52508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6149,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a99569ebf42508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "modsfire.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 80239,
+        "latency_ms": 422,
+        "server": "cloudflare",
+        "cf_ray": "a3a9956c7d4a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a995719ff32508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "sbercloud.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 428132,
+        "latency_ms": 3695,
+        "server": "cloudflare",
+        "cf_ray": "a3a9957dee102508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 252,
+        "latency_ms": 458,
+        "server": "cloudflare",
+        "cf_ray": "a3a9958f1fb82508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "notebookcheck.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 253762,
+        "latency_ms": 629,
+        "server": "cloudflare",
+        "cf_ray": "a3a995964b822508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6197,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a995997d2e2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "allporncomic.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 766963,
+        "latency_ms": 55,
+        "server": "cloudflare",
+        "cf_ray": "a3a9959c0e732508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a9959ed8362508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "sixt.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 266499,
+        "latency_ms": 2367,
+        "server": "cloudflare",
+        "cf_ray": "a3a995a7fce12508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 994,
+        "latency_ms": 187,
+        "server": "cloudflare",
+        "cf_ray": "a3a995b3dbbd2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "fortnite.gg",
+      "A": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 2,
+        "latency_ms": 68,
+        "server": "cloudflare",
+        "cf_ray": "a3a995b65d2c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "http_404",
+        "status": 404,
+        "bytes": 2,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a995b94ef12508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "radios.com.br",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 277896,
+        "latency_ms": 1179,
+        "server": "cloudflare",
+        "cf_ray": "a3a995bdc9ab2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a995c5adb12508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "tubidy.llc",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 81714,
+        "latency_ms": 168,
+        "server": "cloudflare",
+        "cf_ray": "a3a995c82ebc2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a995cbb8cf2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "javhdporn.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 83843,
+        "latency_ms": 665,
+        "server": "cloudflare",
+        "cf_ray": "a3a995d02b5f2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a995d4ee672508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "yesplay.bet",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 858973,
+        "latency_ms": 322,
+        "server": "cloudflare",
+        "cf_ray": "a3a995d76fe62508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4848,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a995dbeabf2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "decathlon.it",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5791,
+        "latency_ms": 790,
+        "server": "cloudflare",
+        "cf_ray": "a3a995e19e952508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6217,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a995e5e9272508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "voz.vn",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 195726,
+        "latency_ms": 290,
+        "server": "cloudflare",
+        "cf_ray": "a3a995e86ac42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6144,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a995ecbd1b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "bestjavporn.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 101958,
+        "latency_ms": 524,
+        "server": "cloudflare",
+        "cf_ray": "a3a995f13fc22508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a995f50a292508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "manga18.club",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "javdock.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "delicious.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "amateri.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "movieboxpro.app",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "cameraprive.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "livecamrips.to",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "hentaicity.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "xanimu.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 153665,
+        "latency_ms": 120,
+        "server": "cloudflare",
+        "cf_ray": "a3a9961fba042508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6169,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99622fbfe2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "bongacams.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5894,
+        "latency_ms": 572,
+        "server": "cloudflare",
+        "cf_ray": "a3a996258d6a2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6300,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a9962b986b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "saveclip.app",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 89235,
+        "latency_ms": 153,
+        "server": "cloudflare",
+        "cf_ray": "a3a9962f0a6e2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a996319b962508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "myhentaicomics.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 288163,
+        "latency_ms": 748,
+        "server": "cloudflare",
+        "cf_ray": "a3a996341cbc2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6198,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a9963b48772508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "sextb.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 158560,
+        "latency_ms": 1017,
+        "server": "cloudflare",
+        "cf_ray": "a3a9963dca022508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 12514,
+        "latency_ms": 191,
+        "server": "cloudflare",
+        "cf_ray": "a3a99646ae5a2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "zonaprop.com.ar",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5773,
+        "latency_ms": 624,
+        "server": "cloudflare",
+        "cf_ray": "a3a9964e3ab82508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6199,
+        "latency_ms": 6,
+        "server": "cloudflare",
+        "cf_ray": "a3a99650cc112508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "javxxx.me",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 87403,
+        "latency_ms": 493,
+        "server": "cloudflare",
+        "cf_ray": "a3a99655fedc2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6168,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a99658d88b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "heavy-r.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 94012,
+        "latency_ms": 2369,
+        "server": "cloudflare",
+        "cf_ray": "a3a99661bd272508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9966cab342508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "lotterypost.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 44249,
+        "latency_ms": 488,
+        "server": "cloudflare",
+        "cf_ray": "a3a9966f8cbb2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6199,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a99674cf5a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "rb.gy",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 267476,
+        "latency_ms": 3771,
+        "server": "cloudflare",
+        "cf_ray": "a3a996827ea42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6164,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a996915e832508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "69shuba.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 33938,
+        "latency_ms": 156,
+        "server": "cloudflare",
+        "cf_ray": "a3a99693dfef2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9969759d72508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "xn--mgbkt9eckr.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 319601,
+        "latency_ms": 712,
+        "server": "cloudflare",
+        "cf_ray": "a3a99699db672508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 65442,
+        "latency_ms": 177,
+        "server": "cloudflare",
+        "cf_ray": "a3a996a0cf862508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "blockchain.info",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 477400,
+        "latency_ms": 1300,
+        "server": "cloudflare",
+        "cf_ray": "a3a996a4b9f12508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6222,
+        "latency_ms": 7,
+        "server": "cloudflare",
+        "cf_ray": "a3a996af18d42508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "nationalreview.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 718541,
+        "latency_ms": 608,
+        "server": "cloudflare",
+        "cf_ray": "a3a996b2cad42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6202,
+        "latency_ms": 5,
+        "server": "cloudflare",
+        "cf_ray": "a3a996b7edba2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "revistaoeste.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 589076,
+        "latency_ms": 374,
+        "server": "cloudflare",
+        "cf_ray": "a3a996ba6f2b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a996bf39e22508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "enuygun.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4552,
+        "latency_ms": 199,
+        "server": "cloudflare",
+        "cf_ray": "a3a996c1cb512508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4552,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a996c58d632508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "mykronos.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 383591,
+        "latency_ms": 658,
+        "server": "cloudflare",
+        "cf_ray": "a3a996cb38522508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6191,
+        "latency_ms": 55,
+        "server": "cloudflare",
+        "cf_ray": "a3a996cefa352508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "stamped.io",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 103,
+        "latency_ms": 1306,
+        "server": "cloudflare",
+        "cf_ray": "a3a996d6ee722508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "datacamp.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "coupert.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "distintas.net",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "beatport.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "tripo3d.ai",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "romsfun.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "momvids.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "javgg.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 170607,
+        "latency_ms": 123,
+        "server": "cloudflare",
+        "cf_ray": "a3a99701dcea2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 170607,
+        "latency_ms": 8,
+        "server": "cloudflare",
+        "cf_ray": "a3a997052f2c2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "punishworld.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 212343,
+        "latency_ms": 259,
+        "server": "cloudflare",
+        "cf_ray": "a3a99707b8ba2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4556,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9970bdaf92508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "snapinsta.to",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 31341,
+        "latency_ms": 307,
+        "server": "cloudflare",
+        "cf_ray": "a3a997103dab2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99712cf1d2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "novel543.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5663,
+        "latency_ms": 161,
+        "server": "cloudflare",
+        "cf_ray": "a3a99715487b2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6068,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99718ca2e2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "chronicle.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 540136,
+        "latency_ms": 1209,
+        "server": "cloudflare",
+        "cf_ray": "a3a997218f302508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6218,
+        "latency_ms": 742,
+        "server": "cloudflare",
+        "cf_ray": "a3a99729fd312508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "fdownloader.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 29145,
+        "latency_ms": 115,
+        "server": "cloudflare",
+        "cf_ray": "a3a9972d2f1f2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9972fb86f2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "action1.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 604177,
+        "latency_ms": 409,
+        "server": "cloudflare",
+        "cf_ray": "a3a997346abf2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6149,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a997374c452508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "sfile.co",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 103078,
+        "latency_ms": 234,
+        "server": "cloudflare",
+        "cf_ray": "a3a99739cde42508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6167,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a9973dbff82508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "gamcare.org.uk",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 216814,
+        "latency_ms": 480,
+        "server": "cloudflare",
+        "cf_ray": "a3a997426a952508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6173,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a99745cc332508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "nsfwph.org",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4551,
+        "latency_ms": 60,
+        "server": "cloudflare",
+        "cf_ray": "a3a997484d742508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4551,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9974b2eec2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "ankergames.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 448012,
+        "latency_ms": 679,
+        "server": "cloudflare",
+        "cf_ray": "a3a9974da8782508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6173,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a997546cb02508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "techspot.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 179273,
+        "latency_ms": 1208,
+        "server": "cloudflare",
+        "cf_ray": "a3a997579f1c2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a99760fe632508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "rawstory.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 487482,
+        "latency_ms": 2056,
+        "server": "cloudflare",
+        "cf_ray": "a3a9976a0b802508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4553,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99772dfa62508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "sokmil.com",
+      "A": {
+        "outcome": "http_525",
+        "status": 525,
+        "bytes": 16,
+        "latency_ms": 42030,
+        "server": "cloudflare",
+        "cf_ray": "a3a9977558fd2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6789,
+        "latency_ms": 587,
+        "server": "cloudflare",
+        "cf_ray": "a3a9987f7b252508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "sdna.gr",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 200943,
+        "latency_ms": 1244,
+        "server": "cloudflare",
+        "cf_ray": "a3a998857e4b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4548,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a9988f0b7b2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "litgorod.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 438269,
+        "latency_ms": 4369,
+        "server": "cloudflare",
+        "cf_ray": "a3a998918cde2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 300,
+        "latency_ms": 180,
+        "server": "cloudflare",
+        "cf_ray": "a3a998af5ce02508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "evotor.ru",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 1396681,
+        "latency_ms": 2522,
+        "server": "cloudflare",
+        "cf_ray": "a3a998b2feee2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 1284,
+        "latency_ms": 241,
+        "server": "cloudflare",
+        "cf_ray": "a3a998c538d12508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "liveball.sx",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 0,
+        "latency_ms": 632,
+        "server": "cloudflare",
+        "cf_ray": "a3a998c93abc2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a998cfae3c2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "wco.tv",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 156806,
+        "latency_ms": 2504,
+        "server": "cloudflare",
+        "cf_ray": "a3a998d94af52508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6165,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a998e458cb2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "javrate.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 90
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "snaptik.net",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "novelfull.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "turfomania.fr",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "samehadaku.how",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "myhentaigallery.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "masstamilan.dev",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 18998,
+        "latency_ms": 216,
+        "server": "cloudflare",
+        "cf_ray": "a3a99905ea632508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a999096c162508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "ericsson.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5776,
+        "latency_ms": 840,
+        "server": "cloudflare",
+        "cf_ray": "a3a9991118a72508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6202,
+        "latency_ms": 174,
+        "server": "cloudflare",
+        "cf_ray": "a3a99914bb0a2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "unlockffbeta.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 15731,
+        "latency_ms": 196,
+        "server": "cloudflare",
+        "cf_ray": "a3a999173d0a2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6196,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a9991aff142508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "avkuy.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 128273,
+        "latency_ms": 624,
+        "server": "cloudflare",
+        "cf_ray": "a3a9991f29252508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6147,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a99923eb752508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "fictionzone.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 265117,
+        "latency_ms": 1333,
+        "server": "cloudflare",
+        "cf_ray": "a3a999266d1b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6195,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a999313bf02508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "playsport.cc",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 155267,
+        "latency_ms": 875,
+        "server": "cloudflare",
+        "cf_ray": "a3a999378fcb2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a9993bba7b2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "timotxt.com",
+      "A": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 5640,
+        "latency_ms": 120,
+        "server": "cloudflare",
+        "cf_ray": "a3a9993e4bcc2508-DAC",
+        "cf_mitigated": "challenge"
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6067,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a999418da92508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "getintopc.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 40774,
+        "latency_ms": 1013,
+        "server": "cloudflare",
+        "cf_ray": "a3a999440f0b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6172,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9994cdbdd2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "afun.mx",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 769826,
+        "latency_ms": 339,
+        "server": "cloudflare",
+        "cf_ray": "a3a9994f5d692508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6166,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99953f80e2508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "tubepussy.org",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 214619,
+        "latency_ms": 965,
+        "server": "cloudflare",
+        "cf_ray": "a3a99956795b2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4554,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a9995f0dca2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "forogore.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 151615,
+        "latency_ms": 2368,
+        "server": "cloudflare",
+        "cf_ray": "a3a999618f382508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4850,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a99972d8de2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "24-hdx.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 195825,
+        "latency_ms": 559,
+        "server": "cloudflare",
+        "cf_ray": "a3a999767afb2508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 195825,
+        "latency_ms": 9,
+        "server": "cloudflare",
+        "cf_ray": "a3a9997b5d982508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "yupmanga.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 194507,
+        "latency_ms": 2528,
+        "server": "cloudflare",
+        "cf_ray": "a3a99985ab832508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4850,
+        "latency_ms": 2,
+        "server": "cloudflare",
+        "cf_ray": "a3a99990387e2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "riyasewana.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 48117,
+        "latency_ms": 225,
+        "server": "cloudflare",
+        "cf_ray": "a3a99992b9c32508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 4555,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a999969bba2508-DAC",
+        "cf_mitigated": null
+      }
+    },
+    {
+      "host": "2ch2.net",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 28301,
+        "latency_ms": 954,
+        "server": "cloudflare",
+        "cf_ray": "a3a9999caf382508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6167,
+        "latency_ms": 4,
+        "server": "cloudflare",
+        "cf_ray": "a3a999a199c42508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "bebesong.com",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 180562,
+        "latency_ms": 1333,
+        "server": "cloudflare",
+        "cf_ray": "a3a999a42af82508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6171,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a999aef8d42508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "pomorska.pl",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 551137,
+        "latency_ms": 1085,
+        "server": "cloudflare",
+        "cf_ray": "a3a999b17a532508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "blocked",
+        "status": 403,
+        "bytes": 6170,
+        "latency_ms": 3,
+        "server": "cloudflare",
+        "cf_ray": "a3a999bacf742508-DAC",
+        "cf_mitigated": "challenge"
+      }
+    },
+    {
+      "host": "uukanshu.cc",
+      "A": {
+        "outcome": "served",
+        "status": 200,
+        "bytes": 18085,
+        "latency_ms": 333,
+        "server": "cloudflare",
+        "cf_ray": "a3a999bd48f92508-DAC",
+        "cf_mitigated": null
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "novinhabucetuda.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "gag.gg",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "miku-doujin.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "sto55.com",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    },
+    {
+      "host": "majhinaukri.in",
+      "A": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      },
+      "B": {
+        "outcome": "error",
+        "error": "Error: Too many subrequests by single Worker invocation. To configure this limit, refer to https://developers.cloudflare",
+        "latency_ms": 0
+      }
+    }
+  ]
+}

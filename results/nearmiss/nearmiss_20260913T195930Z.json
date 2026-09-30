@@ -1,0 +1,1055 @@
+{
+  "collected_utc": "20260913T195930Z",
+  "rows": [
+    {
+      "host": "cloudflare.net",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "chatgpt.com",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "openai.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "mts.ru",
+      "A none": "served",
+      "D Signature-Inputs": "blocked",
+      "C X-Signature-Input": "blocked",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "medium.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "canva.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "expireddomains.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "ft.com",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "britannica.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "perplexity.ai",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "onlyfans.com",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "ebay.co.uk",
+      "D Signature-Inputs": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "served"
+    },
+    {
+      "host": "life360.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "magnit.ru",
+      "A none": "served",
+      "C X-Signature-Input": "blocked",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "character.ai",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "ancestry.com",
+      "A none": "blocked",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "blocked"
+    },
+    {
+      "host": "flightradar24.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "trendyol.com",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "ecosia.org",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "epicgames.dev",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "hltv.org",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "janitorai.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "rutube.ru",
+      "A none": "served",
+      "D Signature-Inputs": "blocked",
+      "C X-Signature-Input": "blocked",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "fetlife.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "hugedomains.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "noodlemagazine.com",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "merriam-webster.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "sotwe.com",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "aternos.org",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "mydramalist.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "arca.live",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "fdown.net",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "action.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "iporntv.net",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "ukdevilz.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "ficbook.net",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "theblowers.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "liteapks.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "luxuretv.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "error",
+      "B Signature-Input": "blocked",
+      "A none": "error"
+    },
+    {
+      "host": "toyhou.se",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "mangago.me",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "myinstants.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "missav.live",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "missav123.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "fatalmodel.com",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "hanime1.me",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "goodreturns.in",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "czbooks.net",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "chordtela.com",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "freewebnovel.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "sexalarab.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "njavtv.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "afribaba.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "indown.io",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "animanch.com",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "tamildhool.tech",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "xahani.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "javwow.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "adroll.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "served"
+    },
+    {
+      "host": "darknessporn.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "shaalaa.com",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "conectate.com.do",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "udemy.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "beeline.ru",
+      "D Signature-Inputs": "blocked",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "blocked"
+    },
+    {
+      "host": "match.com",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "earthlink.net",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "shorturl.at",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "mos.ru",
+      "A none": "served",
+      "C X-Signature-Input": "blocked",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "coinbase.com",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "crunchyroll.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "inmotionhosting.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "pcmag.com",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "qz.com",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "glassdoor.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "ucl.ac.uk",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "alrosa.ru",
+      "C X-Signature-Input": "blocked",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "blocked"
+    },
+    {
+      "host": "riskified.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "envato.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "heylink.me",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "indiegogo.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "brandbucket.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "unrealengine.com",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "redbubble.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "intelbras.com.br",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "n-able.com",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "toasttab.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "fbi.gov",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "arlo.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "webnovel.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "dhgate.com",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "blocked",
+      "D Signature-Inputs": "blocked",
+      "A none": "blocked"
+    },
+    {
+      "host": "reverso.net",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "undertone.com",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "teepublic.com",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "termsfeed.com",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "vidazoo.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "studocu.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "nag.ru",
+      "C X-Signature-Input": "blocked",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "news24.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "visualcapitalist.com",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "bb.com.br",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "coingecko.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "umass.edu",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "findlaw.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "tvtropes.org",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "marinetraffic.com",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "thunderbird.net",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "kit.com",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "guzelhosting.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "x.ai",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "nhentai.net",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "neilpatel.com",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "aiscore.com",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "blocked",
+      "A none": "blocked"
+    },
+    {
+      "host": "ebay.com.au",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "steaminventoryhelper.com",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "trulia.com",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "iherb.com",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "9mod.com",
+      "A none": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "just-eat.co.uk",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "ebay.it",
+      "A none": "blocked",
+      "B Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "yolasite.com",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "revolut.com",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "benzinga.com",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "sberbank-tele.com",
+      "C X-Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "imunify360.com",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "apkmirror.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "diigo.com",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "atptour.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "alldatasheet.com",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "withings.net",
+      "D Signature-Inputs": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served"
+    },
+    {
+      "host": "4pda.to",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "tracker.gg",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "avid.com",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served"
+    },
+    {
+      "host": "perchance.org",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "yaplakal.com",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served",
+      "B Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "thekitchn.com",
+      "A none": "blocked",
+      "C X-Signature-Input": "blocked",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "crushon.ai",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "betano.com",
+      "D Signature-Inputs": "error",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "oneindia.com",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "camsoda.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "temp-mail.org",
+      "B Signature-Input": "blocked",
+      "A none": "served",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "truthsocial.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "sportsapi.ru",
+      "D Signature-Inputs": "blocked",
+      "C X-Signature-Input": "blocked",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "mango-office.ru",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "jeuxvideo.com",
+      "C X-Signature-Input": "served",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked"
+    },
+    {
+      "host": "blooket.com",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "tube8.fr",
+      "D Signature-Inputs": "blocked",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "blocked",
+      "A none": "served"
+    },
+    {
+      "host": "xfree.com",
+      "D Signature-Inputs": "served",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "wpzoom.com",
+      "B Signature-Input": "served",
+      "C X-Signature-Input": "served",
+      "A none": "served",
+      "D Signature-Inputs": "served"
+    },
+    {
+      "host": "loteriasdominicanas.com",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    },
+    {
+      "host": "decathlon.fr",
+      "A none": "served",
+      "B Signature-Input": "blocked",
+      "D Signature-Inputs": "served",
+      "C X-Signature-Input": "served"
+    }
+  ]
+}

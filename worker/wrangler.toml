@@ -1,0 +1,15 @@
+name = "wba-probe"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+# The directory-fetch log holds third-party IP addresses, so it is read back
+# only with a token and expires after 90 days. Set the token with:
+#     npx wrangler secret put HITS_TOKEN
+#
+# The KV binding id is filled in by setup.sh, which creates the namespace.
+# Without it the Worker still logs to console for `wrangler tail`; KV is what
+# makes the log survive a disconnected tail session across a multi-hour run.
+
+[[kv_namespaces]]
+binding = "WBA_LOG"
+id = "5cde94a25da94920a13df0502f896b37"
